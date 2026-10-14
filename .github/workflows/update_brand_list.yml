@@ -32,3 +32,17 @@ jobs:
           git add bucketstore_brand_list.json
           git commit -m "Update brand list ($(TZ=Asia/Seoul date +%Y-%m-%d))"
           git push
+
+      - name: Notify Slack on failure
+        if: failure()
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          if [ -z "$SLACK_WEBHOOK_URL" ]; then
+            echo "SLACK_WEBHOOK_URL secret is not set"
+            exit 0
+          fi
+          text=$(printf ':rotating_light: *버킷스토어 브랜드 리스트 자동 갱신 실패*\n레포: %s\n로그 확인: %s' "$GITHUB_REPOSITORY" "$RUN_URL")
+          payload=$(jq -n --arg text "$text" '{text: $text}')
+          curl -sS -X POST -H 'Content-Type: application/json' -d "$payload" "$SLACK_WEBHOOK_URL"

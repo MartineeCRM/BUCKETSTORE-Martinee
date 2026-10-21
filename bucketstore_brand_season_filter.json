@@ -1,0 +1,5858 @@
+{
+ "updated_at": "2026-10-21",
+ "source": "https://bucketstore.com/bucketapi/filters?brandId={brand_id}",
+ "season_codes": {
+  "G006_1": "봄",
+  "G006_2": "여름",
+  "G006_3": "가을",
+  "G006_4": "겨울",
+  "G006_5": "S/S",
+  "G006_6": "F/W",
+  "G006_7": "프리시즌"
+ },
+ "season_type_desc": {
+  "season": "봄/여름/가을/겨울만",
+  "ssfw": "S/S·F/W만",
+  "mixed": "계절+S/S·F/W 혼합",
+  "preseason_only": "프리시즌만",
+  "none": "시즌 필터 없음"
+ },
+ "brands": {
+  "1": {
+   "brand_name": "PING",
+   "brand_name_ko": "핑",
+   "category": "골프",
+   "season_type": "season",
+   "season_codes": [
+    "G006_1",
+    "G006_2",
+    "G006_3",
+    "G006_4",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_1",
+     "name": "봄",
+     "url": "https://bucketstore.com/brands/1/goods?season=G006_1"
+    },
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/1/goods?season=G006_2"
+    },
+    {
+     "code": "G006_3",
+     "name": "가을",
+     "url": "https://bucketstore.com/brands/1/goods?season=G006_3"
+    },
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/1/goods?season=G006_4"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/1/goods?season=G006_7"
+    }
+   ]
+  },
+  "2": {
+   "brand_name": "FANTOM",
+   "brand_name_ko": "팬텀",
+   "category": "골프",
+   "season_type": "season",
+   "season_codes": [
+    "G006_1",
+    "G006_2",
+    "G006_3",
+    "G006_4",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_1",
+     "name": "봄",
+     "url": "https://bucketstore.com/brands/2/goods?season=G006_1"
+    },
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/2/goods?season=G006_2"
+    },
+    {
+     "code": "G006_3",
+     "name": "가을",
+     "url": "https://bucketstore.com/brands/2/goods?season=G006_3"
+    },
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/2/goods?season=G006_4"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2/goods?season=G006_7"
+    }
+   ]
+  },
+  "4": {
+   "brand_name": "MASTER BUNNY EDITION",
+   "brand_name_ko": "마스터바니에디션",
+   "category": "골프",
+   "season_type": "season",
+   "season_codes": [
+    "G006_1",
+    "G006_2",
+    "G006_3",
+    "G006_4",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_1",
+     "name": "봄",
+     "url": "https://bucketstore.com/brands/4/goods?season=G006_1"
+    },
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/4/goods?season=G006_2"
+    },
+    {
+     "code": "G006_3",
+     "name": "가을",
+     "url": "https://bucketstore.com/brands/4/goods?season=G006_3"
+    },
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/4/goods?season=G006_4"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/4/goods?season=G006_7"
+    }
+   ]
+  },
+  "5": {
+   "brand_name": "PEARLY GATES",
+   "brand_name_ko": "파리게이츠",
+   "category": "골프",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_1",
+    "G006_2",
+    "G006_3",
+    "G006_4",
+    "G006_5",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_1",
+     "name": "봄",
+     "url": "https://bucketstore.com/brands/5/goods?season=G006_1"
+    },
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/5/goods?season=G006_2"
+    },
+    {
+     "code": "G006_3",
+     "name": "가을",
+     "url": "https://bucketstore.com/brands/5/goods?season=G006_3"
+    },
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/5/goods?season=G006_4"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/5/goods?season=G006_5"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/5/goods?season=G006_7"
+    }
+   ]
+  },
+  "8": {
+   "brand_name": "St ANDREWS",
+   "brand_name_ko": "세인트앤드류스",
+   "category": "골프",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_1",
+    "G006_2",
+    "G006_3",
+    "G006_4",
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_1",
+     "name": "봄",
+     "url": "https://bucketstore.com/brands/8/goods?season=G006_1"
+    },
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/8/goods?season=G006_2"
+    },
+    {
+     "code": "G006_3",
+     "name": "가을",
+     "url": "https://bucketstore.com/brands/8/goods?season=G006_3"
+    },
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/8/goods?season=G006_4"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/8/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/8/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/8/goods?season=G006_7"
+    }
+   ]
+  },
+  "10": {
+   "brand_name": "HYDROGEN",
+   "brand_name_ko": "하이드로겐",
+   "category": "아웃도어",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_1",
+    "G006_2",
+    "G006_3",
+    "G006_4",
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_1",
+     "name": "봄",
+     "url": "https://bucketstore.com/brands/10/goods?season=G006_1"
+    },
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/10/goods?season=G006_2"
+    },
+    {
+     "code": "G006_3",
+     "name": "가을",
+     "url": "https://bucketstore.com/brands/10/goods?season=G006_3"
+    },
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/10/goods?season=G006_4"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/10/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/10/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/10/goods?season=G006_7"
+    }
+   ]
+  },
+  "12": {
+   "brand_name": "MAMMUT",
+   "brand_name_ko": "마무트",
+   "category": "아웃도어",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_1",
+    "G006_2",
+    "G006_3",
+    "G006_4",
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_1",
+     "name": "봄",
+     "url": "https://bucketstore.com/brands/12/goods?season=G006_1"
+    },
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/12/goods?season=G006_2"
+    },
+    {
+     "code": "G006_3",
+     "name": "가을",
+     "url": "https://bucketstore.com/brands/12/goods?season=G006_3"
+    },
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/12/goods?season=G006_4"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/12/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/12/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/12/goods?season=G006_7"
+    }
+   ]
+  },
+  "15": {
+   "brand_name": "LYNX",
+   "brand_name_ko": "링스",
+   "category": "골프",
+   "season_type": "season",
+   "season_codes": [
+    "G006_1",
+    "G006_2",
+    "G006_3",
+    "G006_4",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_1",
+     "name": "봄",
+     "url": "https://bucketstore.com/brands/15/goods?season=G006_1"
+    },
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/15/goods?season=G006_2"
+    },
+    {
+     "code": "G006_3",
+     "name": "가을",
+     "url": "https://bucketstore.com/brands/15/goods?season=G006_3"
+    },
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/15/goods?season=G006_4"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/15/goods?season=G006_7"
+    }
+   ]
+  },
+  "16": {
+   "brand_name": "V12",
+   "brand_name_ko": "V12",
+   "category": "골프",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_1",
+    "G006_2",
+    "G006_3",
+    "G006_4",
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_1",
+     "name": "봄",
+     "url": "https://bucketstore.com/brands/16/goods?season=G006_1"
+    },
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/16/goods?season=G006_2"
+    },
+    {
+     "code": "G006_3",
+     "name": "가을",
+     "url": "https://bucketstore.com/brands/16/goods?season=G006_3"
+    },
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/16/goods?season=G006_4"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/16/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/16/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/16/goods?season=G006_7"
+    }
+   ]
+  },
+  "75": {
+   "brand_name": "LAURA ASHLEY",
+   "brand_name_ko": "로라애슐리",
+   "category": "리빙",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_2",
+    "G006_4",
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/75/goods?season=G006_2"
+    },
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/75/goods?season=G006_4"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/75/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/75/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/75/goods?season=G006_7"
+    }
+   ]
+  },
+  "115": {
+   "brand_name": "CREVE9",
+   "brand_name_ko": "크리브나인",
+   "category": "골프",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_1",
+    "G006_2",
+    "G006_3",
+    "G006_4",
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_1",
+     "name": "봄",
+     "url": "https://bucketstore.com/brands/115/goods?season=G006_1"
+    },
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/115/goods?season=G006_2"
+    },
+    {
+     "code": "G006_3",
+     "name": "가을",
+     "url": "https://bucketstore.com/brands/115/goods?season=G006_3"
+    },
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/115/goods?season=G006_4"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/115/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/115/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/115/goods?season=G006_7"
+    }
+   ]
+  },
+  "175": {
+   "brand_name": "BLUDOT",
+   "brand_name_ko": "블루닷",
+   "category": "골프",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_1",
+    "G006_3",
+    "G006_4",
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_1",
+     "name": "봄",
+     "url": "https://bucketstore.com/brands/175/goods?season=G006_1"
+    },
+    {
+     "code": "G006_3",
+     "name": "가을",
+     "url": "https://bucketstore.com/brands/175/goods?season=G006_3"
+    },
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/175/goods?season=G006_4"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/175/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/175/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/175/goods?season=G006_7"
+    }
+   ]
+  },
+  "176": {
+   "brand_name": "PLAYBOO",
+   "brand_name_ko": "플레이부",
+   "category": "골프",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_1",
+    "G006_2",
+    "G006_4",
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_1",
+     "name": "봄",
+     "url": "https://bucketstore.com/brands/176/goods?season=G006_1"
+    },
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/176/goods?season=G006_2"
+    },
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/176/goods?season=G006_4"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/176/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/176/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/176/goods?season=G006_7"
+    }
+   ]
+  },
+  "195": {
+   "brand_name": "KLIMGOLF",
+   "brand_name_ko": "크림골프",
+   "category": "골프",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_1",
+    "G006_2",
+    "G006_3",
+    "G006_4",
+    "G006_5",
+    "G006_6"
+   ],
+   "seasons": [
+    {
+     "code": "G006_1",
+     "name": "봄",
+     "url": "https://bucketstore.com/brands/195/goods?season=G006_1"
+    },
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/195/goods?season=G006_2"
+    },
+    {
+     "code": "G006_3",
+     "name": "가을",
+     "url": "https://bucketstore.com/brands/195/goods?season=G006_3"
+    },
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/195/goods?season=G006_4"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/195/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/195/goods?season=G006_6"
+    }
+   ]
+  },
+  "215": {
+   "brand_name": "MONDAYFLOW",
+   "brand_name_ko": "먼데이플로우",
+   "category": "골프",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_2",
+    "G006_3",
+    "G006_4",
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/215/goods?season=G006_2"
+    },
+    {
+     "code": "G006_3",
+     "name": "가을",
+     "url": "https://bucketstore.com/brands/215/goods?season=G006_3"
+    },
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/215/goods?season=G006_4"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/215/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/215/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/215/goods?season=G006_7"
+    }
+   ]
+  },
+  "235": {
+   "brand_name": "ONOFF",
+   "brand_name_ko": "온오프",
+   "category": "골프",
+   "season_type": "ssfw",
+   "season_codes": [
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/235/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/235/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/235/goods?season=G006_7"
+    }
+   ]
+  },
+  "236": {
+   "brand_name": "YORFGOLF",
+   "brand_name_ko": "욜프골프",
+   "category": "골프",
+   "season_type": "ssfw",
+   "season_codes": [
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/236/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/236/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/236/goods?season=G006_7"
+    }
+   ]
+  },
+  "257": {
+   "brand_name": "BEANPOLE GOLF",
+   "brand_name_ko": "빈폴 골프",
+   "category": "골프",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_1",
+    "G006_2",
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_1",
+     "name": "봄",
+     "url": "https://bucketstore.com/brands/257/goods?season=G006_1"
+    },
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/257/goods?season=G006_2"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/257/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/257/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/257/goods?season=G006_7"
+    }
+   ]
+  },
+  "258": {
+   "brand_name": "BOSS",
+   "brand_name_ko": "보스",
+   "category": "골프",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_1",
+    "G006_2",
+    "G006_3",
+    "G006_4",
+    "G006_5",
+    "G006_6"
+   ],
+   "seasons": [
+    {
+     "code": "G006_1",
+     "name": "봄",
+     "url": "https://bucketstore.com/brands/258/goods?season=G006_1"
+    },
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/258/goods?season=G006_2"
+    },
+    {
+     "code": "G006_3",
+     "name": "가을",
+     "url": "https://bucketstore.com/brands/258/goods?season=G006_3"
+    },
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/258/goods?season=G006_4"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/258/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/258/goods?season=G006_6"
+    }
+   ]
+  },
+  "277": {
+   "brand_name": "BLACK&WHITE",
+   "brand_name_ko": "블랙앤화이트",
+   "category": "골프",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_1",
+    "G006_2",
+    "G006_4",
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_1",
+     "name": "봄",
+     "url": "https://bucketstore.com/brands/277/goods?season=G006_1"
+    },
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/277/goods?season=G006_2"
+    },
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/277/goods?season=G006_4"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/277/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/277/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/277/goods?season=G006_7"
+    }
+   ]
+  },
+  "297": {
+   "brand_name": "MODELO",
+   "brand_name_ko": "모델로",
+   "category": "골프",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/297/goods?season=G006_7"
+    }
+   ]
+  },
+  "337": {
+   "brand_name": "MACKY",
+   "brand_name_ko": "맥키",
+   "category": "골프",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_2",
+    "G006_3",
+    "G006_4",
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/337/goods?season=G006_2"
+    },
+    {
+     "code": "G006_3",
+     "name": "가을",
+     "url": "https://bucketstore.com/brands/337/goods?season=G006_3"
+    },
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/337/goods?season=G006_4"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/337/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/337/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/337/goods?season=G006_7"
+    }
+   ]
+  },
+  "338": {
+   "brand_name": "TAYLORMADE",
+   "brand_name_ko": "테일러메이드",
+   "category": "골프",
+   "season_type": "season",
+   "season_codes": [
+    "G006_1",
+    "G006_2",
+    "G006_3",
+    "G006_4",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_1",
+     "name": "봄",
+     "url": "https://bucketstore.com/brands/338/goods?season=G006_1"
+    },
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/338/goods?season=G006_2"
+    },
+    {
+     "code": "G006_3",
+     "name": "가을",
+     "url": "https://bucketstore.com/brands/338/goods?season=G006_3"
+    },
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/338/goods?season=G006_4"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/338/goods?season=G006_7"
+    }
+   ]
+  },
+  "357": {
+   "brand_name": "PAYNTR GOLF",
+   "brand_name_ko": "페인터골프",
+   "category": "골프",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_3",
+    "G006_4",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_3",
+     "name": "가을",
+     "url": "https://bucketstore.com/brands/357/goods?season=G006_3"
+    },
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/357/goods?season=G006_4"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/357/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/357/goods?season=G006_7"
+    }
+   ]
+  },
+  "417": {
+   "brand_name": "DESCENTE GOLF",
+   "brand_name_ko": "데상트골프",
+   "category": "골프",
+   "season_type": "season",
+   "season_codes": [
+    "G006_1",
+    "G006_2",
+    "G006_3",
+    "G006_4",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_1",
+     "name": "봄",
+     "url": "https://bucketstore.com/brands/417/goods?season=G006_1"
+    },
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/417/goods?season=G006_2"
+    },
+    {
+     "code": "G006_3",
+     "name": "가을",
+     "url": "https://bucketstore.com/brands/417/goods?season=G006_3"
+    },
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/417/goods?season=G006_4"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/417/goods?season=G006_7"
+    }
+   ]
+  },
+  "418": {
+   "brand_name": "LE COQ GOLF",
+   "brand_name_ko": "르꼬끄골프",
+   "category": "골프",
+   "season_type": "season",
+   "season_codes": [
+    "G006_1",
+    "G006_2",
+    "G006_3",
+    "G006_4",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_1",
+     "name": "봄",
+     "url": "https://bucketstore.com/brands/418/goods?season=G006_1"
+    },
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/418/goods?season=G006_2"
+    },
+    {
+     "code": "G006_3",
+     "name": "가을",
+     "url": "https://bucketstore.com/brands/418/goods?season=G006_3"
+    },
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/418/goods?season=G006_4"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/418/goods?season=G006_7"
+    }
+   ]
+  },
+  "419": {
+   "brand_name": "MUNSINGWEAR",
+   "brand_name_ko": "먼싱웨어",
+   "category": "골프",
+   "season_type": "season",
+   "season_codes": [
+    "G006_1",
+    "G006_2",
+    "G006_3",
+    "G006_4",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_1",
+     "name": "봄",
+     "url": "https://bucketstore.com/brands/419/goods?season=G006_1"
+    },
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/419/goods?season=G006_2"
+    },
+    {
+     "code": "G006_3",
+     "name": "가을",
+     "url": "https://bucketstore.com/brands/419/goods?season=G006_3"
+    },
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/419/goods?season=G006_4"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/419/goods?season=G006_7"
+    }
+   ]
+  },
+  "498": {
+   "brand_name": "BENECIA12",
+   "brand_name_ko": "베네시아12",
+   "category": "골프",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_1",
+    "G006_2",
+    "G006_3",
+    "G006_4",
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_1",
+     "name": "봄",
+     "url": "https://bucketstore.com/brands/498/goods?season=G006_1"
+    },
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/498/goods?season=G006_2"
+    },
+    {
+     "code": "G006_3",
+     "name": "가을",
+     "url": "https://bucketstore.com/brands/498/goods?season=G006_3"
+    },
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/498/goods?season=G006_4"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/498/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/498/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/498/goods?season=G006_7"
+    }
+   ]
+  },
+  "538": {
+   "brand_name": "ANELL",
+   "brand_name_ko": "아넬",
+   "category": "골프",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_1",
+    "G006_2",
+    "G006_3",
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_1",
+     "name": "봄",
+     "url": "https://bucketstore.com/brands/538/goods?season=G006_1"
+    },
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/538/goods?season=G006_2"
+    },
+    {
+     "code": "G006_3",
+     "name": "가을",
+     "url": "https://bucketstore.com/brands/538/goods?season=G006_3"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/538/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/538/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/538/goods?season=G006_7"
+    }
+   ]
+  },
+  "558": {
+   "brand_name": "BLACK YAK",
+   "brand_name_ko": "블랙야크",
+   "category": "아웃도어",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/558/goods?season=G006_7"
+    }
+   ]
+  },
+  "578": {
+   "brand_name": "BUCKET CLUB & GEAR",
+   "brand_name_ko": "버킷 클럽 & 기어",
+   "category": "골프",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_1",
+    "G006_2",
+    "G006_3",
+    "G006_4",
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_1",
+     "name": "봄",
+     "url": "https://bucketstore.com/brands/578/goods?season=G006_1"
+    },
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/578/goods?season=G006_2"
+    },
+    {
+     "code": "G006_3",
+     "name": "가을",
+     "url": "https://bucketstore.com/brands/578/goods?season=G006_3"
+    },
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/578/goods?season=G006_4"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/578/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/578/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/578/goods?season=G006_7"
+    }
+   ]
+  },
+  "659": {
+   "brand_name": "RUDYPROJECT",
+   "brand_name_ko": "루디프로젝트",
+   "category": "아웃도어|스포츠",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/659/goods?season=G006_7"
+    }
+   ]
+  },
+  "660": {
+   "brand_name": "MILLET",
+   "brand_name_ko": "밀레",
+   "category": "아웃도어",
+   "season_type": "season",
+   "season_codes": [
+    "G006_1",
+    "G006_2",
+    "G006_3",
+    "G006_4",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_1",
+     "name": "봄",
+     "url": "https://bucketstore.com/brands/660/goods?season=G006_1"
+    },
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/660/goods?season=G006_2"
+    },
+    {
+     "code": "G006_3",
+     "name": "가을",
+     "url": "https://bucketstore.com/brands/660/goods?season=G006_3"
+    },
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/660/goods?season=G006_4"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/660/goods?season=G006_7"
+    }
+   ]
+  },
+  "678": {
+   "brand_name": "aven",
+   "brand_name_ko": "에이븐",
+   "category": "골프",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_1",
+    "G006_2",
+    "G006_3",
+    "G006_4",
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_1",
+     "name": "봄",
+     "url": "https://bucketstore.com/brands/678/goods?season=G006_1"
+    },
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/678/goods?season=G006_2"
+    },
+    {
+     "code": "G006_3",
+     "name": "가을",
+     "url": "https://bucketstore.com/brands/678/goods?season=G006_3"
+    },
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/678/goods?season=G006_4"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/678/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/678/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/678/goods?season=G006_7"
+    }
+   ]
+  },
+  "718": {
+   "brand_name": "TAYLORMADE (ACC/GEAR)",
+   "brand_name_ko": "테일러메이드 (용품/클럽)",
+   "category": "골프",
+   "season_type": "none",
+   "season_codes": [],
+   "seasons": []
+  },
+  "758": {
+   "brand_name": "MONTURA",
+   "brand_name_ko": "몬츄라",
+   "category": "아웃도어",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_2",
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/758/goods?season=G006_2"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/758/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/758/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/758/goods?season=G006_7"
+    }
+   ]
+  },
+  "759": {
+   "brand_name": "MIZUNO GOLF",
+   "brand_name_ko": "미즈노골프",
+   "category": "골프",
+   "season_type": "none",
+   "season_codes": [],
+   "seasons": []
+  },
+  "760": {
+   "brand_name": "MU SPORTS",
+   "brand_name_ko": "엠유스포츠",
+   "category": "골프",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/760/goods?season=G006_7"
+    }
+   ]
+  },
+  "761": {
+   "brand_name": "GERI&FREKI",
+   "brand_name_ko": "게리앤프레키",
+   "category": "골프",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_2",
+    "G006_3",
+    "G006_4",
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/761/goods?season=G006_2"
+    },
+    {
+     "code": "G006_3",
+     "name": "가을",
+     "url": "https://bucketstore.com/brands/761/goods?season=G006_3"
+    },
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/761/goods?season=G006_4"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/761/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/761/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/761/goods?season=G006_7"
+    }
+   ]
+  },
+  "762": {
+   "brand_name": "LeNIC&GOLF",
+   "brand_name_ko": "르니앤맥코이 골프",
+   "category": "골프",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_1",
+    "G006_2",
+    "G006_4",
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_1",
+     "name": "봄",
+     "url": "https://bucketstore.com/brands/762/goods?season=G006_1"
+    },
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/762/goods?season=G006_2"
+    },
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/762/goods?season=G006_4"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/762/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/762/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/762/goods?season=G006_7"
+    }
+   ]
+  },
+  "778": {
+   "brand_name": "RAB",
+   "brand_name_ko": "랩",
+   "category": "아웃도어|캠핑",
+   "season_type": "season",
+   "season_codes": [
+    "G006_4",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/778/goods?season=G006_4"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/778/goods?season=G006_7"
+    }
+   ]
+  },
+  "799": {
+   "brand_name": "PERSIANCAT",
+   "brand_name_ko": "페르시안캣",
+   "category": "골프",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_2",
+    "G006_4",
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/799/goods?season=G006_2"
+    },
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/799/goods?season=G006_4"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/799/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/799/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/799/goods?season=G006_7"
+    }
+   ]
+  },
+  "819": {
+   "brand_name": "ZAMBERLAN",
+   "brand_name_ko": "잠발란",
+   "category": "아웃도어",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/819/goods?season=G006_7"
+    }
+   ]
+  },
+  "820": {
+   "brand_name": "MSR",
+   "brand_name_ko": "엠에스알",
+   "category": "캠핑",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/820/goods?season=G006_7"
+    }
+   ]
+  },
+  "899": {
+   "brand_name": "VOLVIK",
+   "brand_name_ko": "볼빅",
+   "category": "골프",
+   "season_type": "season",
+   "season_codes": [
+    "G006_1",
+    "G006_2",
+    "G006_3",
+    "G006_4",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_1",
+     "name": "봄",
+     "url": "https://bucketstore.com/brands/899/goods?season=G006_1"
+    },
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/899/goods?season=G006_2"
+    },
+    {
+     "code": "G006_3",
+     "name": "가을",
+     "url": "https://bucketstore.com/brands/899/goods?season=G006_3"
+    },
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/899/goods?season=G006_4"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/899/goods?season=G006_7"
+    }
+   ]
+  },
+  "940": {
+   "brand_name": "WINNERSPIRIT",
+   "brand_name_ko": "위너스피릿",
+   "category": "골프",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/940/goods?season=G006_7"
+    }
+   ]
+  },
+  "961": {
+   "brand_name": "LIKK",
+   "brand_name_ko": "릭크",
+   "category": "골프",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_1",
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_1",
+     "name": "봄",
+     "url": "https://bucketstore.com/brands/961/goods?season=G006_1"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/961/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/961/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/961/goods?season=G006_7"
+    }
+   ]
+  },
+  "999": {
+   "brand_name": "스토리너스",
+   "brand_name_ko": "스토리너스",
+   "category": "골프",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/999/goods?season=G006_7"
+    }
+   ]
+  },
+  "1019": {
+   "brand_name": "FairLiar",
+   "brand_name_ko": "페어라이어",
+   "category": "골프",
+   "season_type": "ssfw",
+   "season_codes": [
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/1019/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/1019/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/1019/goods?season=G006_7"
+    }
+   ]
+  },
+  "1059": {
+   "brand_name": "OSPREY",
+   "brand_name_ko": "오스프리",
+   "category": "아웃도어",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/1059/goods?season=G006_7"
+    }
+   ]
+  },
+  "1099": {
+   "brand_name": "LA SPORTIVA",
+   "brand_name_ko": "라스포르티바",
+   "category": "아웃도어",
+   "season_type": "ssfw",
+   "season_codes": [
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/1099/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/1099/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/1099/goods?season=G006_7"
+    }
+   ]
+  },
+  "1100": {
+   "brand_name": "SMARTWOOL",
+   "brand_name_ko": "스마트울",
+   "category": "아웃도어",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_4",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/1100/goods?season=G006_4"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/1100/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/1100/goods?season=G006_7"
+    }
+   ]
+  },
+  "1101": {
+   "brand_name": "CHACO",
+   "brand_name_ko": "차코",
+   "category": "스포츠",
+   "season_type": "season",
+   "season_codes": [
+    "G006_2",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/1101/goods?season=G006_2"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/1101/goods?season=G006_7"
+    }
+   ]
+  },
+  "1102": {
+   "brand_name": "HYDRAPAK",
+   "brand_name_ko": "하이드라팩",
+   "category": "아웃도어",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/1102/goods?season=G006_7"
+    }
+   ]
+  },
+  "1119": {
+   "brand_name": "LAMBDA GOLF",
+   "brand_name_ko": "람다골프",
+   "category": "골프",
+   "season_type": "ssfw",
+   "season_codes": [
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/1119/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/1119/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/1119/goods?season=G006_7"
+    }
+   ]
+  },
+  "1120": {
+   "brand_name": "THE SIENA LIFE",
+   "brand_name_ko": "더시에나라이프",
+   "category": "골프",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_2",
+    "G006_3",
+    "G006_4",
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/1120/goods?season=G006_2"
+    },
+    {
+     "code": "G006_3",
+     "name": "가을",
+     "url": "https://bucketstore.com/brands/1120/goods?season=G006_3"
+    },
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/1120/goods?season=G006_4"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/1120/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/1120/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/1120/goods?season=G006_7"
+    }
+   ]
+  },
+  "1159": {
+   "brand_name": "CROCS",
+   "brand_name_ko": "크록스",
+   "category": "스포츠",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_2",
+    "G006_3",
+    "G006_4",
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/1159/goods?season=G006_2"
+    },
+    {
+     "code": "G006_3",
+     "name": "가을",
+     "url": "https://bucketstore.com/brands/1159/goods?season=G006_3"
+    },
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/1159/goods?season=G006_4"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/1159/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/1159/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/1159/goods?season=G006_7"
+    }
+   ]
+  },
+  "1179": {
+   "brand_name": "UCO",
+   "brand_name_ko": "유코",
+   "category": "캠핑",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/1179/goods?season=G006_7"
+    }
+   ]
+  },
+  "1180": {
+   "brand_name": "DARN TOUGH",
+   "brand_name_ko": "단터프",
+   "category": "아웃도어",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/1180/goods?season=G006_7"
+    }
+   ]
+  },
+  "1181": {
+   "brand_name": "NEPA",
+   "brand_name_ko": "네파",
+   "category": "아웃도어",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_1",
+    "G006_2",
+    "G006_3",
+    "G006_4",
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_1",
+     "name": "봄",
+     "url": "https://bucketstore.com/brands/1181/goods?season=G006_1"
+    },
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/1181/goods?season=G006_2"
+    },
+    {
+     "code": "G006_3",
+     "name": "가을",
+     "url": "https://bucketstore.com/brands/1181/goods?season=G006_3"
+    },
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/1181/goods?season=G006_4"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/1181/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/1181/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/1181/goods?season=G006_7"
+    }
+   ]
+  },
+  "1199": {
+   "brand_name": "NEPA KIDS",
+   "brand_name_ko": "네파 키즈",
+   "category": "아웃도어",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_1",
+    "G006_2",
+    "G006_3",
+    "G006_4",
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_1",
+     "name": "봄",
+     "url": "https://bucketstore.com/brands/1199/goods?season=G006_1"
+    },
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/1199/goods?season=G006_2"
+    },
+    {
+     "code": "G006_3",
+     "name": "가을",
+     "url": "https://bucketstore.com/brands/1199/goods?season=G006_3"
+    },
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/1199/goods?season=G006_4"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/1199/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/1199/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/1199/goods?season=G006_7"
+    }
+   ]
+  },
+  "1279": {
+   "brand_name": "GALVINGREEN",
+   "brand_name_ko": "갤빈그린",
+   "category": "골프",
+   "season_type": "none",
+   "season_codes": [],
+   "seasons": []
+  },
+  "1300": {
+   "brand_name": "SKECHERS",
+   "brand_name_ko": "스케쳐스",
+   "category": "스포츠",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/1300/goods?season=G006_7"
+    }
+   ]
+  },
+  "1340": {
+   "brand_name": "FILA",
+   "brand_name_ko": "휠라",
+   "category": "스포츠",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_1",
+    "G006_2",
+    "G006_3",
+    "G006_4",
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_1",
+     "name": "봄",
+     "url": "https://bucketstore.com/brands/1340/goods?season=G006_1"
+    },
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/1340/goods?season=G006_2"
+    },
+    {
+     "code": "G006_3",
+     "name": "가을",
+     "url": "https://bucketstore.com/brands/1340/goods?season=G006_3"
+    },
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/1340/goods?season=G006_4"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/1340/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/1340/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/1340/goods?season=G006_7"
+    }
+   ]
+  },
+  "1379": {
+   "brand_name": "THERMAREST",
+   "brand_name_ko": "써머레스트",
+   "category": "캠핑",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/1379/goods?season=G006_7"
+    }
+   ]
+  },
+  "1439": {
+   "brand_name": "LANSMERE",
+   "brand_name_ko": "란스미어골프",
+   "category": "골프",
+   "season_type": "ssfw",
+   "season_codes": [
+    "G006_5",
+    "G006_6"
+   ],
+   "seasons": [
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/1439/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/1439/goods?season=G006_6"
+    }
+   ]
+  },
+  "1519": {
+   "brand_name": "BOGEYBOYS",
+   "brand_name_ko": "보기보이즈",
+   "category": "골프",
+   "season_type": "season",
+   "season_codes": [
+    "G006_1",
+    "G006_2",
+    "G006_3",
+    "G006_4"
+   ],
+   "seasons": [
+    {
+     "code": "G006_1",
+     "name": "봄",
+     "url": "https://bucketstore.com/brands/1519/goods?season=G006_1"
+    },
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/1519/goods?season=G006_2"
+    },
+    {
+     "code": "G006_3",
+     "name": "가을",
+     "url": "https://bucketstore.com/brands/1519/goods?season=G006_3"
+    },
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/1519/goods?season=G006_4"
+    }
+   ]
+  },
+  "1579": {
+   "brand_name": "WIDEANGLE",
+   "brand_name_ko": "와이드앵글",
+   "category": "골프",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_3",
+    "G006_4",
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_3",
+     "name": "가을",
+     "url": "https://bucketstore.com/brands/1579/goods?season=G006_3"
+    },
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/1579/goods?season=G006_4"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/1579/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/1579/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/1579/goods?season=G006_7"
+    }
+   ]
+  },
+  "1580": {
+   "brand_name": "PIRETTI",
+   "brand_name_ko": "피레티",
+   "category": "골프",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_2",
+    "G006_3",
+    "G006_4",
+    "G006_6"
+   ],
+   "seasons": [
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/1580/goods?season=G006_2"
+    },
+    {
+     "code": "G006_3",
+     "name": "가을",
+     "url": "https://bucketstore.com/brands/1580/goods?season=G006_3"
+    },
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/1580/goods?season=G006_4"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/1580/goods?season=G006_6"
+    }
+   ]
+  },
+  "1581": {
+   "brand_name": "K2",
+   "brand_name_ko": "케이투",
+   "category": "아웃도어",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_2",
+    "G006_4",
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/1581/goods?season=G006_2"
+    },
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/1581/goods?season=G006_4"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/1581/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/1581/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/1581/goods?season=G006_7"
+    }
+   ]
+  },
+  "1582": {
+   "brand_name": "EIDER",
+   "brand_name_ko": "아이더",
+   "category": "아웃도어",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_1",
+    "G006_3",
+    "G006_4",
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_1",
+     "name": "봄",
+     "url": "https://bucketstore.com/brands/1582/goods?season=G006_1"
+    },
+    {
+     "code": "G006_3",
+     "name": "가을",
+     "url": "https://bucketstore.com/brands/1582/goods?season=G006_3"
+    },
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/1582/goods?season=G006_4"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/1582/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/1582/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/1582/goods?season=G006_7"
+    }
+   ]
+  },
+  "1599": {
+   "brand_name": "NORTH PEAK",
+   "brand_name_ko": "노스피크",
+   "category": "캠핑",
+   "season_type": "none",
+   "season_codes": [],
+   "seasons": []
+  },
+  "1601": {
+   "brand_name": "JEEP",
+   "brand_name_ko": "지프",
+   "category": "캠핑",
+   "season_type": "none",
+   "season_codes": [],
+   "seasons": []
+  },
+  "1602": {
+   "brand_name": "NEMO",
+   "brand_name_ko": "니모",
+   "category": "캠핑",
+   "season_type": "none",
+   "season_codes": [],
+   "seasons": []
+  },
+  "1603": {
+   "brand_name": "Coleman",
+   "brand_name_ko": "콜맨",
+   "category": "캠핑",
+   "season_type": "none",
+   "season_codes": [],
+   "seasons": []
+  },
+  "1695": {
+   "brand_name": "kovea",
+   "brand_name_ko": "코베아",
+   "category": "캠핑",
+   "season_type": "none",
+   "season_codes": [],
+   "seasons": []
+  },
+  "1727": {
+   "brand_name": "LOGOS",
+   "brand_name_ko": "로고스",
+   "category": "캠핑",
+   "season_type": "none",
+   "season_codes": [],
+   "seasons": []
+  },
+  "1739": {
+   "brand_name": "Fjällräven",
+   "brand_name_ko": "피엘라벤",
+   "category": "아웃도어",
+   "season_type": "ssfw",
+   "season_codes": [
+    "G006_5",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/1739/goods?season=G006_5"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/1739/goods?season=G006_7"
+    }
+   ]
+  },
+  "1779": {
+   "brand_name": "NOKJOK",
+   "brand_name_ko": "녹족",
+   "category": "스포츠",
+   "season_type": "ssfw",
+   "season_codes": [
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/1779/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/1779/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/1779/goods?season=G006_7"
+    }
+   ]
+  },
+  "1819": {
+   "brand_name": "GREYSON",
+   "brand_name_ko": "그레이슨",
+   "category": "골프|스포츠",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_1",
+    "G006_2",
+    "G006_3",
+    "G006_4",
+    "G006_5",
+    "G006_6"
+   ],
+   "seasons": [
+    {
+     "code": "G006_1",
+     "name": "봄",
+     "url": "https://bucketstore.com/brands/1819/goods?season=G006_1"
+    },
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/1819/goods?season=G006_2"
+    },
+    {
+     "code": "G006_3",
+     "name": "가을",
+     "url": "https://bucketstore.com/brands/1819/goods?season=G006_3"
+    },
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/1819/goods?season=G006_4"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/1819/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/1819/goods?season=G006_6"
+    }
+   ]
+  },
+  "1839": {
+   "brand_name": "SKULLPIG",
+   "brand_name_ko": "스컬피그",
+   "category": "스포츠",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_2",
+    "G006_4",
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/1839/goods?season=G006_2"
+    },
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/1839/goods?season=G006_4"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/1839/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/1839/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/1839/goods?season=G006_7"
+    }
+   ]
+  },
+  "1859": {
+   "brand_name": "SAMSONITE",
+   "brand_name_ko": "쌤소나이트",
+   "category": "캠핑",
+   "season_type": "none",
+   "season_codes": [],
+   "seasons": []
+  },
+  "1879": {
+   "brand_name": "UPPERSTROP",
+   "brand_name_ko": "어퍼스트롭",
+   "category": "골프",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/1879/goods?season=G006_7"
+    }
+   ]
+  },
+  "1899": {
+   "brand_name": "MANORS GOLF",
+   "brand_name_ko": "매너스골프",
+   "category": "골프",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/1899/goods?season=G006_7"
+    }
+   ]
+  },
+  "1919": {
+   "brand_name": "AMAZINGCRE",
+   "brand_name_ko": "어메이징크리",
+   "category": "골프",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_1",
+    "G006_3",
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_1",
+     "name": "봄",
+     "url": "https://bucketstore.com/brands/1919/goods?season=G006_1"
+    },
+    {
+     "code": "G006_3",
+     "name": "가을",
+     "url": "https://bucketstore.com/brands/1919/goods?season=G006_3"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/1919/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/1919/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/1919/goods?season=G006_7"
+    }
+   ]
+  },
+  "1959": {
+   "brand_name": "ADIDAS GOLF",
+   "brand_name_ko": "아디다스 골프",
+   "category": "골프",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_1",
+    "G006_2",
+    "G006_3",
+    "G006_4",
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_1",
+     "name": "봄",
+     "url": "https://bucketstore.com/brands/1959/goods?season=G006_1"
+    },
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/1959/goods?season=G006_2"
+    },
+    {
+     "code": "G006_3",
+     "name": "가을",
+     "url": "https://bucketstore.com/brands/1959/goods?season=G006_3"
+    },
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/1959/goods?season=G006_4"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/1959/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/1959/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/1959/goods?season=G006_7"
+    }
+   ]
+  },
+  "2079": {
+   "brand_name": "NIKE",
+   "brand_name_ko": "나이키",
+   "category": "스포츠",
+   "season_type": "ssfw",
+   "season_codes": [
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/2079/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/2079/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2079/goods?season=G006_7"
+    }
+   ]
+  },
+  "2080": {
+   "brand_name": "ADIDAS",
+   "brand_name_ko": "아디다스",
+   "category": "스포츠",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_2",
+    "G006_3",
+    "G006_4",
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/2080/goods?season=G006_2"
+    },
+    {
+     "code": "G006_3",
+     "name": "가을",
+     "url": "https://bucketstore.com/brands/2080/goods?season=G006_3"
+    },
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/2080/goods?season=G006_4"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/2080/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/2080/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2080/goods?season=G006_7"
+    }
+   ]
+  },
+  "2081": {
+   "brand_name": "PUMA",
+   "brand_name_ko": "푸마",
+   "category": "스포츠",
+   "season_type": "ssfw",
+   "season_codes": [
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/2081/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/2081/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2081/goods?season=G006_7"
+    }
+   ]
+  },
+  "2082": {
+   "brand_name": "NEW BALANCE",
+   "brand_name_ko": "뉴발란스",
+   "category": "스포츠",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_2",
+    "G006_5",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/2082/goods?season=G006_2"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/2082/goods?season=G006_5"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2082/goods?season=G006_7"
+    }
+   ]
+  },
+  "2083": {
+   "brand_name": "UNDERARMOUR",
+   "brand_name_ko": "언더아머",
+   "category": "스포츠",
+   "season_type": "ssfw",
+   "season_codes": [
+    "G006_5",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/2083/goods?season=G006_5"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2083/goods?season=G006_7"
+    }
+   ]
+  },
+  "2085": {
+   "brand_name": "PRO SPECS",
+   "brand_name_ko": "프로스펙스",
+   "category": "스포츠",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2085/goods?season=G006_7"
+    }
+   ]
+  },
+  "2086": {
+   "brand_name": "KEEN",
+   "brand_name_ko": "킨",
+   "category": "스포츠",
+   "season_type": "ssfw",
+   "season_codes": [
+    "G006_5",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/2086/goods?season=G006_5"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2086/goods?season=G006_7"
+    }
+   ]
+  },
+  "2087": {
+   "brand_name": "NEW ERA",
+   "brand_name_ko": "뉴에라",
+   "category": "스포츠",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2087/goods?season=G006_7"
+    }
+   ]
+  },
+  "2088": {
+   "brand_name": "MERRELL",
+   "brand_name_ko": "머렐",
+   "category": "스포츠",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2088/goods?season=G006_7"
+    }
+   ]
+  },
+  "2089": {
+   "brand_name": "MIZUNO",
+   "brand_name_ko": "미즈노",
+   "category": "스포츠",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2089/goods?season=G006_7"
+    }
+   ]
+  },
+  "2090": {
+   "brand_name": "HOKA",
+   "brand_name_ko": "호카",
+   "category": "스포츠",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2090/goods?season=G006_7"
+    }
+   ]
+  },
+  "2091": {
+   "brand_name": "ASICS",
+   "brand_name_ko": "아식스",
+   "category": "스포츠",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2091/goods?season=G006_7"
+    }
+   ]
+  },
+  "2101": {
+   "brand_name": "OOFOS",
+   "brand_name_ko": "우포스",
+   "category": "스포츠",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_2",
+    "G006_5",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/2101/goods?season=G006_2"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/2101/goods?season=G006_5"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2101/goods?season=G006_7"
+    }
+   ]
+  },
+  "2103": {
+   "brand_name": "PATAGONIA",
+   "brand_name_ko": "파타고니아",
+   "category": "스포츠",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2103/goods?season=G006_7"
+    }
+   ]
+  },
+  "2105": {
+   "brand_name": "UGG",
+   "brand_name_ko": "어그",
+   "category": "스포츠",
+   "season_type": "ssfw",
+   "season_codes": [
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/2105/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/2105/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2105/goods?season=G006_7"
+    }
+   ]
+  },
+  "2119": {
+   "brand_name": "Bucket Privé",
+   "brand_name_ko": "버킷 프리베",
+   "category": "스포츠",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_4",
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/2119/goods?season=G006_4"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/2119/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/2119/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2119/goods?season=G006_7"
+    }
+   ]
+  },
+  "2139": {
+   "brand_name": "GARMIN",
+   "brand_name_ko": "가민",
+   "category": "골프|아웃도어|스포츠",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2139/goods?season=G006_7"
+    }
+   ]
+  },
+  "2159": {
+   "brand_name": "holaho",
+   "brand_name_ko": "호라호",
+   "category": "스포츠",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_2",
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/2159/goods?season=G006_2"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/2159/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/2159/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2159/goods?season=G006_7"
+    }
+   ]
+  },
+  "2180": {
+   "brand_name": "ALTRA",
+   "brand_name_ko": "알트라",
+   "category": "스포츠",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2180/goods?season=G006_7"
+    }
+   ]
+  },
+  "2199": {
+   "brand_name": "ARC'TERYX",
+   "brand_name_ko": "아크테릭스",
+   "category": "스포츠",
+   "season_type": "ssfw",
+   "season_codes": [
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/2199/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/2199/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2199/goods?season=G006_7"
+    }
+   ]
+  },
+  "2219": {
+   "brand_name": "Hugger Mugger",
+   "brand_name_ko": "허거머거",
+   "category": "스포츠",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2219/goods?season=G006_7"
+    }
+   ]
+  },
+  "2240": {
+   "brand_name": "ARIZONA LOVE",
+   "brand_name_ko": "아리조나 러브",
+   "category": "스포츠",
+   "season_type": "season",
+   "season_codes": [
+    "G006_2"
+   ],
+   "seasons": [
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/2240/goods?season=G006_2"
+    }
+   ]
+  },
+  "2241": {
+   "brand_name": "CAMPER",
+   "brand_name_ko": "캠퍼",
+   "category": "스포츠",
+   "season_type": "none",
+   "season_codes": [],
+   "seasons": []
+  },
+  "2242": {
+   "brand_name": "CONVERSE",
+   "brand_name_ko": "컨버스",
+   "category": "스포츠",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2242/goods?season=G006_7"
+    }
+   ]
+  },
+  "2246": {
+   "brand_name": "HUNTER",
+   "brand_name_ko": "헌터",
+   "category": "스포츠",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2246/goods?season=G006_7"
+    }
+   ]
+  },
+  "2259": {
+   "brand_name": "VOICE CADDIE",
+   "brand_name_ko": "보이스캐디",
+   "category": "골프",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2259/goods?season=G006_7"
+    }
+   ]
+  },
+  "2265": {
+   "brand_name": "SALOMON",
+   "brand_name_ko": "살로몬",
+   "category": "스포츠",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2265/goods?season=G006_7"
+    }
+   ]
+  },
+  "2299": {
+   "brand_name": "BEARPAW",
+   "brand_name_ko": "베어파우",
+   "category": "스포츠",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2299/goods?season=G006_7"
+    }
+   ]
+  },
+  "2300": {
+   "brand_name": "OZUGGWEAR",
+   "brand_name_ko": "오즈어그웨어",
+   "category": "스포츠",
+   "season_type": "ssfw",
+   "season_codes": [
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/2300/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2300/goods?season=G006_7"
+    }
+   ]
+  },
+  "2319": {
+   "brand_name": "TECH SKIN",
+   "brand_name_ko": "테크스킨",
+   "category": "골프",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_2",
+    "G006_4",
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/2319/goods?season=G006_2"
+    },
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/2319/goods?season=G006_4"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/2319/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/2319/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2319/goods?season=G006_7"
+    }
+   ]
+  },
+  "2320": {
+   "brand_name": "XNELLS",
+   "brand_name_ko": "엑스넬스",
+   "category": "골프",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2320/goods?season=G006_7"
+    }
+   ]
+  },
+  "2339": {
+   "brand_name": "KANAL WEAR",
+   "brand_name_ko": "카날웨어",
+   "category": "스포츠",
+   "season_type": "ssfw",
+   "season_codes": [
+    "G006_5",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/2339/goods?season=G006_5"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2339/goods?season=G006_7"
+    }
+   ]
+  },
+  "2359": {
+   "brand_name": "ZERO HALLIBURTON",
+   "brand_name_ko": "제로할리버튼",
+   "category": "골프",
+   "season_type": "none",
+   "season_codes": [],
+   "seasons": []
+  },
+  "2379": {
+   "brand_name": "SPICA",
+   "brand_name_ko": "스피카",
+   "category": "스포츠",
+   "season_type": "season",
+   "season_codes": [
+    "G006_4",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/2379/goods?season=G006_4"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2379/goods?season=G006_7"
+    }
+   ]
+  },
+  "2399": {
+   "brand_name": "ZEROGRAM",
+   "brand_name_ko": "제로그램",
+   "category": "아웃도어",
+   "season_type": "ssfw",
+   "season_codes": [
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/2399/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/2399/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2399/goods?season=G006_7"
+    }
+   ]
+  },
+  "2419": {
+   "brand_name": "FELICE APPAREL",
+   "brand_name_ko": "펠리체 의류",
+   "category": "스포츠",
+   "season_type": "season",
+   "season_codes": [
+    "G006_4",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/2419/goods?season=G006_4"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2419/goods?season=G006_7"
+    }
+   ]
+  },
+  "2439": {
+   "brand_name": "FEEL LOW SOPHIE",
+   "brand_name_ko": "필로소피",
+   "category": "스포츠",
+   "season_type": "ssfw",
+   "season_codes": [
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/2439/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/2439/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2439/goods?season=G006_7"
+    }
+   ]
+  },
+  "2479": {
+   "brand_name": "MANDUKA",
+   "brand_name_ko": "만두카",
+   "category": "스포츠",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2479/goods?season=G006_7"
+    }
+   ]
+  },
+  "2499": {
+   "brand_name": "YONEX",
+   "brand_name_ko": "요넥스",
+   "category": "스포츠",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_3",
+    "G006_4",
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_3",
+     "name": "가을",
+     "url": "https://bucketstore.com/brands/2499/goods?season=G006_3"
+    },
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/2499/goods?season=G006_4"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/2499/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/2499/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2499/goods?season=G006_7"
+    }
+   ]
+  },
+  "2519": {
+   "brand_name": "MADCATTOS",
+   "brand_name_ko": "매드캐토스",
+   "category": "골프",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_1",
+    "G006_2",
+    "G006_3",
+    "G006_4",
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_1",
+     "name": "봄",
+     "url": "https://bucketstore.com/brands/2519/goods?season=G006_1"
+    },
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/2519/goods?season=G006_2"
+    },
+    {
+     "code": "G006_3",
+     "name": "가을",
+     "url": "https://bucketstore.com/brands/2519/goods?season=G006_3"
+    },
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/2519/goods?season=G006_4"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/2519/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/2519/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2519/goods?season=G006_7"
+    }
+   ]
+  },
+  "2540": {
+   "brand_name": "ALPHA INDUSTRIES",
+   "brand_name_ko": "알파인더스트리",
+   "category": "스포츠",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2540/goods?season=G006_7"
+    }
+   ]
+  },
+  "2542": {
+   "brand_name": "SUBU",
+   "brand_name_ko": "수부",
+   "category": "스포츠",
+   "season_type": "season",
+   "season_codes": [
+    "G006_4"
+   ],
+   "seasons": [
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/2542/goods?season=G006_4"
+    }
+   ]
+  },
+  "2559": {
+   "brand_name": "BOB GOLF",
+   "brand_name_ko": "비오비 골프",
+   "category": "골프",
+   "season_type": "ssfw",
+   "season_codes": [
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/2559/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2559/goods?season=G006_7"
+    }
+   ]
+  },
+  "2579": {
+   "brand_name": "티포시",
+   "brand_name_ko": "티포시",
+   "category": "아웃도어|스포츠",
+   "season_type": "season",
+   "season_codes": [
+    "G006_2",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/2579/goods?season=G006_2"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2579/goods?season=G006_7"
+    }
+   ]
+  },
+  "2599": {
+   "brand_name": "GANESHA YOGA PROPS",
+   "brand_name_ko": "가네샤요가프랍스",
+   "category": "스포츠",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2599/goods?season=G006_7"
+    }
+   ]
+  },
+  "2619": {
+   "brand_name": "DAKS GOLF",
+   "brand_name_ko": "닥스골프",
+   "category": "골프",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_1",
+    "G006_2",
+    "G006_3",
+    "G006_4",
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_1",
+     "name": "봄",
+     "url": "https://bucketstore.com/brands/2619/goods?season=G006_1"
+    },
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/2619/goods?season=G006_2"
+    },
+    {
+     "code": "G006_3",
+     "name": "가을",
+     "url": "https://bucketstore.com/brands/2619/goods?season=G006_3"
+    },
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/2619/goods?season=G006_4"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/2619/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/2619/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2619/goods?season=G006_7"
+    }
+   ]
+  },
+  "2620": {
+   "brand_name": "HAZZYS GOLF",
+   "brand_name_ko": "헤지스골프",
+   "category": "골프",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_1",
+    "G006_2",
+    "G006_3",
+    "G006_4",
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_1",
+     "name": "봄",
+     "url": "https://bucketstore.com/brands/2620/goods?season=G006_1"
+    },
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/2620/goods?season=G006_2"
+    },
+    {
+     "code": "G006_3",
+     "name": "가을",
+     "url": "https://bucketstore.com/brands/2620/goods?season=G006_3"
+    },
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/2620/goods?season=G006_4"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/2620/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/2620/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2620/goods?season=G006_7"
+    }
+   ]
+  },
+  "2639": {
+   "brand_name": "ibanenets",
+   "brand_name_ko": "이바네네츠",
+   "category": "스포츠",
+   "season_type": "ssfw",
+   "season_codes": [
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/2639/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/2639/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2639/goods?season=G006_7"
+    }
+   ]
+  },
+  "2659": {
+   "brand_name": "QUELL",
+   "brand_name_ko": "크웰",
+   "category": "스포츠",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2659/goods?season=G006_7"
+    }
+   ]
+  },
+  "2679": {
+   "brand_name": "AIRIT",
+   "brand_name_ko": "에어릿",
+   "category": "스포츠",
+   "season_type": "ssfw",
+   "season_codes": [
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/2679/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/2679/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2679/goods?season=G006_7"
+    }
+   ]
+  },
+  "2680": {
+   "brand_name": "PHILOSOPHIA",
+   "brand_name_ko": "필로소피아",
+   "category": "스포츠",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_2",
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/2680/goods?season=G006_2"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/2680/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/2680/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2680/goods?season=G006_7"
+    }
+   ]
+  },
+  "2699": {
+   "brand_name": "GCLEF",
+   "brand_name_ko": "지클레프",
+   "category": "스포츠",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2699/goods?season=G006_7"
+    }
+   ]
+  },
+  "2719": {
+   "brand_name": "Chapter.X",
+   "brand_name_ko": "챕터엑스",
+   "category": "스포츠",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_2",
+    "G006_4",
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/2719/goods?season=G006_2"
+    },
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/2719/goods?season=G006_4"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/2719/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/2719/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2719/goods?season=G006_7"
+    }
+   ]
+  },
+  "2759": {
+   "brand_name": "KeeK",
+   "brand_name_ko": "키크",
+   "category": "아웃도어|스포츠",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2759/goods?season=G006_7"
+    }
+   ]
+  },
+  "2799": {
+   "brand_name": "XXIO",
+   "brand_name_ko": "젝시오",
+   "category": "골프",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2799/goods?season=G006_7"
+    }
+   ]
+  },
+  "2800": {
+   "brand_name": "Cleveland",
+   "brand_name_ko": "클리브랜드",
+   "category": "골프",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2800/goods?season=G006_7"
+    }
+   ]
+  },
+  "2801": {
+   "brand_name": "SRIXON",
+   "brand_name_ko": "스릭슨",
+   "category": "골프",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2801/goods?season=G006_7"
+    }
+   ]
+  },
+  "2819": {
+   "brand_name": "THE NORTH FACE",
+   "brand_name_ko": "노스페이스",
+   "category": "아웃도어|스포츠",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_4",
+    "G006_5",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/2819/goods?season=G006_4"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/2819/goods?season=G006_5"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2819/goods?season=G006_7"
+    }
+   ]
+  },
+  "2859": {
+   "brand_name": "CEP",
+   "brand_name_ko": "씨이피",
+   "category": "스포츠",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2859/goods?season=G006_7"
+    }
+   ]
+  },
+  "2879": {
+   "brand_name": "SUN MOUNTAIN",
+   "brand_name_ko": "썬 마운틴",
+   "category": "골프",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2879/goods?season=G006_7"
+    }
+   ]
+  },
+  "2899": {
+   "brand_name": "NITINA",
+   "brand_name_ko": "니티나",
+   "category": "골프",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_2",
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/2899/goods?season=G006_2"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/2899/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/2899/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2899/goods?season=G006_7"
+    }
+   ]
+  },
+  "2900": {
+   "brand_name": "LORDLOAR",
+   "brand_name_ko": "로드로아르",
+   "category": "골프",
+   "season_type": "ssfw",
+   "season_codes": [
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/2900/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/2900/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2900/goods?season=G006_7"
+    }
+   ]
+  },
+  "2919": {
+   "brand_name": "ECCO GOLF",
+   "brand_name_ko": "에코 골프",
+   "category": "골프",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2919/goods?season=G006_7"
+    }
+   ]
+  },
+  "2939": {
+   "brand_name": "J.LINDEBERG",
+   "brand_name_ko": "제이린드버그",
+   "category": "골프",
+   "season_type": "ssfw",
+   "season_codes": [
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/2939/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/2939/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2939/goods?season=G006_7"
+    }
+   ]
+  },
+  "2940": {
+   "brand_name": "AQUATICA",
+   "brand_name_ko": "아쿠아티카",
+   "category": "스포츠",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2940/goods?season=G006_7"
+    }
+   ]
+  },
+  "2962": {
+   "brand_name": "DUVIK",
+   "brand_name_ko": "듀빅",
+   "category": "골프",
+   "season_type": "ssfw",
+   "season_codes": [
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/2962/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/2962/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/2962/goods?season=G006_7"
+    }
+   ]
+  },
+  "2980": {
+   "brand_name": "Khalhon' Golf",
+   "brand_name_ko": "깔롱골프",
+   "category": "골프",
+   "season_type": "ssfw",
+   "season_codes": [
+    "G006_5",
+    "G006_6"
+   ],
+   "seasons": [
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/2980/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/2980/goods?season=G006_6"
+    }
+   ]
+  },
+  "3019": {
+   "brand_name": "CHALLENGER",
+   "brand_name_ko": "챌린저",
+   "category": "골프",
+   "season_type": "season",
+   "season_codes": [
+    "G006_1",
+    "G006_2",
+    "G006_3",
+    "G006_4",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_1",
+     "name": "봄",
+     "url": "https://bucketstore.com/brands/3019/goods?season=G006_1"
+    },
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/3019/goods?season=G006_2"
+    },
+    {
+     "code": "G006_3",
+     "name": "가을",
+     "url": "https://bucketstore.com/brands/3019/goods?season=G006_3"
+    },
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/3019/goods?season=G006_4"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/3019/goods?season=G006_7"
+    }
+   ]
+  },
+  "3020": {
+   "brand_name": "HOOG",
+   "brand_name_ko": "후그",
+   "category": "스포츠",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/3020/goods?season=G006_7"
+    }
+   ]
+  },
+  "3021": {
+   "brand_name": "ZETES",
+   "brand_name_ko": "제테스",
+   "category": "스포츠",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/3021/goods?season=G006_7"
+    }
+   ]
+  },
+  "3039": {
+   "brand_name": "NEWERA GOLF",
+   "brand_name_ko": "뉴에라골프",
+   "category": "골프",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_1",
+    "G006_2",
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_1",
+     "name": "봄",
+     "url": "https://bucketstore.com/brands/3039/goods?season=G006_1"
+    },
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/3039/goods?season=G006_2"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/3039/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/3039/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/3039/goods?season=G006_7"
+    }
+   ]
+  },
+  "3060": {
+   "brand_name": "EASTPAK",
+   "brand_name_ko": "이스트팩",
+   "category": "스포츠",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/3060/goods?season=G006_7"
+    }
+   ]
+  },
+  "3061": {
+   "brand_name": "MEDUSE",
+   "brand_name_ko": "메듀즈",
+   "category": "스포츠",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_2",
+    "G006_5",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/3061/goods?season=G006_2"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/3061/goods?season=G006_5"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/3061/goods?season=G006_7"
+    }
+   ]
+  },
+  "3065": {
+   "brand_name": "MELISSA",
+   "brand_name_ko": "멜리사",
+   "category": "스포츠",
+   "season_type": "season",
+   "season_codes": [
+    "G006_2",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/3065/goods?season=G006_2"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/3065/goods?season=G006_7"
+    }
+   ]
+  },
+  "3079": {
+   "brand_name": "Joyful Hues",
+   "brand_name_ko": "조이풀휴즈",
+   "category": "스포츠",
+   "season_type": "ssfw",
+   "season_codes": [
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/3079/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/3079/goods?season=G006_7"
+    }
+   ]
+  },
+  "3080": {
+   "brand_name": "VENDIS",
+   "brand_name_ko": "벤디스",
+   "category": "스포츠",
+   "season_type": "ssfw",
+   "season_codes": [
+    "G006_5",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/3080/goods?season=G006_5"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/3080/goods?season=G006_7"
+    }
+   ]
+  },
+  "3081": {
+   "brand_name": "HELA",
+   "brand_name_ko": "헬라",
+   "category": "스포츠",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/3081/goods?season=G006_7"
+    }
+   ]
+  },
+  "3099": {
+   "brand_name": "AINIFFON",
+   "brand_name_ko": "아인이프온",
+   "category": "스포츠",
+   "season_type": "ssfw",
+   "season_codes": [
+    "G006_5",
+    "G006_6"
+   ],
+   "seasons": [
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/3099/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/3099/goods?season=G006_6"
+    }
+   ]
+  },
+  "3119": {
+   "brand_name": "HENRY STUART",
+   "brand_name_ko": "헨리 스튜어트",
+   "category": "골프",
+   "season_type": "ssfw",
+   "season_codes": [
+    "G006_5",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/3119/goods?season=G006_5"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/3119/goods?season=G006_7"
+    }
+   ]
+  },
+  "3139": {
+   "brand_name": "CRAIG&KARL",
+   "brand_name_ko": "크랙앤칼",
+   "category": "골프",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_1",
+    "G006_2",
+    "G006_3",
+    "G006_4",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_1",
+     "name": "봄",
+     "url": "https://bucketstore.com/brands/3139/goods?season=G006_1"
+    },
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/3139/goods?season=G006_2"
+    },
+    {
+     "code": "G006_3",
+     "name": "가을",
+     "url": "https://bucketstore.com/brands/3139/goods?season=G006_3"
+    },
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/3139/goods?season=G006_4"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/3139/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/3139/goods?season=G006_7"
+    }
+   ]
+  },
+  "3159": {
+   "brand_name": "CASTELBAJAC",
+   "brand_name_ko": "까스텔바작",
+   "category": "골프",
+   "season_type": "season",
+   "season_codes": [
+    "G006_1",
+    "G006_2",
+    "G006_3",
+    "G006_4"
+   ],
+   "seasons": [
+    {
+     "code": "G006_1",
+     "name": "봄",
+     "url": "https://bucketstore.com/brands/3159/goods?season=G006_1"
+    },
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/3159/goods?season=G006_2"
+    },
+    {
+     "code": "G006_3",
+     "name": "가을",
+     "url": "https://bucketstore.com/brands/3159/goods?season=G006_3"
+    },
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/3159/goods?season=G006_4"
+    }
+   ]
+  },
+  "3199": {
+   "brand_name": "LIBEAR",
+   "brand_name_ko": "리베아르",
+   "category": "스포츠",
+   "season_type": "season",
+   "season_codes": [
+    "G006_2",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/3199/goods?season=G006_2"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/3199/goods?season=G006_7"
+    }
+   ]
+  },
+  "3200": {
+   "brand_name": "LEMANGO",
+   "brand_name_ko": "르망고",
+   "category": "스포츠",
+   "season_type": "season",
+   "season_codes": [
+    "G006_1",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_1",
+     "name": "봄",
+     "url": "https://bucketstore.com/brands/3200/goods?season=G006_1"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/3200/goods?season=G006_7"
+    }
+   ]
+  },
+  "3201": {
+   "brand_name": "NOIR",
+   "brand_name_ko": "느와",
+   "category": "스포츠",
+   "season_type": "season",
+   "season_codes": [
+    "G006_2",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/3201/goods?season=G006_2"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/3201/goods?season=G006_7"
+    }
+   ]
+  },
+  "3202": {
+   "brand_name": "TUBETREE",
+   "brand_name_ko": "튜브트리",
+   "category": "스포츠",
+   "season_type": "season",
+   "season_codes": [
+    "G006_2"
+   ],
+   "seasons": [
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/3202/goods?season=G006_2"
+    }
+   ]
+  },
+  "3239": {
+   "brand_name": "AKCY",
+   "brand_name_ko": "아크시",
+   "category": "스포츠",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/3239/goods?season=G006_7"
+    }
+   ]
+  },
+  "3259": {
+   "brand_name": "AVAVE",
+   "brand_name_ko": "어베이브",
+   "category": "골프",
+   "season_type": "ssfw",
+   "season_codes": [
+    "G006_5",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/3259/goods?season=G006_5"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/3259/goods?season=G006_7"
+    }
+   ]
+  },
+  "3279": {
+   "brand_name": "D.MARE",
+   "brand_name_ko": "디마레",
+   "category": "골프",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_2",
+    "G006_3",
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/3279/goods?season=G006_2"
+    },
+    {
+     "code": "G006_3",
+     "name": "가을",
+     "url": "https://bucketstore.com/brands/3279/goods?season=G006_3"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/3279/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/3279/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/3279/goods?season=G006_7"
+    }
+   ]
+  },
+  "3299": {
+   "brand_name": "DYNAFIT",
+   "brand_name_ko": "다이나핏",
+   "category": "스포츠",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_4",
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/3299/goods?season=G006_4"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/3299/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/3299/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/3299/goods?season=G006_7"
+    }
+   ]
+  },
+  "3339": {
+   "brand_name": "E.PARCA",
+   "brand_name_ko": "이파르카",
+   "category": "골프",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_1",
+    "G006_2",
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_1",
+     "name": "봄",
+     "url": "https://bucketstore.com/brands/3339/goods?season=G006_1"
+    },
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/3339/goods?season=G006_2"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/3339/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/3339/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/3339/goods?season=G006_7"
+    }
+   ]
+  },
+  "3399": {
+   "brand_name": "AVVES GOLF",
+   "brand_name_ko": "아베스골프",
+   "category": "골프",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/3399/goods?season=G006_7"
+    }
+   ]
+  },
+  "3419": {
+   "brand_name": "DISNEY GOLF",
+   "brand_name_ko": "디즈니골프",
+   "category": "골프",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_2",
+    "G006_3",
+    "G006_5",
+    "G006_6"
+   ],
+   "seasons": [
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/3419/goods?season=G006_2"
+    },
+    {
+     "code": "G006_3",
+     "name": "가을",
+     "url": "https://bucketstore.com/brands/3419/goods?season=G006_3"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/3419/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/3419/goods?season=G006_6"
+    }
+   ]
+  },
+  "3420": {
+   "brand_name": "DODICI",
+   "brand_name_ko": "도디치",
+   "category": "스포츠",
+   "season_type": "season",
+   "season_codes": [
+    "G006_2",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/3420/goods?season=G006_2"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/3420/goods?season=G006_7"
+    }
+   ]
+  },
+  "3439": {
+   "brand_name": "두유노우엠씨",
+   "brand_name_ko": "두유노우엠씨",
+   "category": "골프",
+   "season_type": "ssfw",
+   "season_codes": [
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/3439/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/3439/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/3439/goods?season=G006_7"
+    }
+   ]
+  },
+  "3459": {
+   "brand_name": "AND GOLF",
+   "brand_name_ko": "앤드골프",
+   "category": "골프",
+   "season_type": "ssfw",
+   "season_codes": [
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/3459/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/3459/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/3459/goods?season=G006_7"
+    }
+   ]
+  },
+  "3499": {
+   "brand_name": "BUFF",
+   "brand_name_ko": "버프",
+   "category": "스포츠",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/3499/goods?season=G006_7"
+    }
+   ]
+  },
+  "3519": {
+   "brand_name": "테이아골프",
+   "brand_name_ko": "테이아골프",
+   "category": "골프",
+   "season_type": "ssfw",
+   "season_codes": [
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/3519/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/3519/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/3519/goods?season=G006_7"
+    }
+   ]
+  },
+  "3539": {
+   "brand_name": "DOWNBLOW",
+   "brand_name_ko": "다운블로우",
+   "category": "골프",
+   "season_type": "ssfw",
+   "season_codes": [
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/3539/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/3539/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/3539/goods?season=G006_7"
+    }
+   ]
+  },
+  "3559": {
+   "brand_name": "플래토",
+   "brand_name_ko": "PLATEAU",
+   "category": "골프|아웃도어|스포츠",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/3559/goods?season=G006_7"
+    }
+   ]
+  },
+  "3579": {
+   "brand_name": "크루멤버스온리",
+   "brand_name_ko": "크루멤버스온리",
+   "category": "골프",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_1",
+    "G006_2",
+    "G006_5",
+    "G006_6"
+   ],
+   "seasons": [
+    {
+     "code": "G006_1",
+     "name": "봄",
+     "url": "https://bucketstore.com/brands/3579/goods?season=G006_1"
+    },
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/3579/goods?season=G006_2"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/3579/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/3579/goods?season=G006_6"
+    }
+   ]
+  },
+  "3599": {
+   "brand_name": "PINS & ACES",
+   "brand_name_ko": "핀스앤에이스",
+   "category": "골프",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/3599/goods?season=G006_7"
+    }
+   ]
+  },
+  "3600": {
+   "brand_name": "SWEET ROLLZ",
+   "brand_name_ko": "스윗롤즈",
+   "category": "골프",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/3600/goods?season=G006_7"
+    }
+   ]
+  },
+  "3619": {
+   "brand_name": "DENNISGOLF",
+   "brand_name_ko": "데니스골프",
+   "category": "골프",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/3619/goods?season=G006_7"
+    }
+   ]
+  },
+  "3639": {
+   "brand_name": "Klean Kanteen",
+   "brand_name_ko": "클린켄틴",
+   "category": "아웃도어|스포츠",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/3639/goods?season=G006_7"
+    }
+   ]
+  },
+  "3640": {
+   "brand_name": "NALGENE",
+   "brand_name_ko": "날진",
+   "category": "아웃도어|캠핑|스포츠",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/3640/goods?season=G006_7"
+    }
+   ]
+  },
+  "3659": {
+   "brand_name": "JDX",
+   "brand_name_ko": "제이디엑스",
+   "category": "골프",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_1",
+    "G006_2",
+    "G006_3",
+    "G006_4",
+    "G006_5"
+   ],
+   "seasons": [
+    {
+     "code": "G006_1",
+     "name": "봄",
+     "url": "https://bucketstore.com/brands/3659/goods?season=G006_1"
+    },
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/3659/goods?season=G006_2"
+    },
+    {
+     "code": "G006_3",
+     "name": "가을",
+     "url": "https://bucketstore.com/brands/3659/goods?season=G006_3"
+    },
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/3659/goods?season=G006_4"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/3659/goods?season=G006_5"
+    }
+   ]
+  },
+  "3699": {
+   "brand_name": "K-SWISS",
+   "brand_name_ko": "케이스위스",
+   "category": "스포츠",
+   "season_type": "ssfw",
+   "season_codes": [
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/3699/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/3699/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/3699/goods?season=G006_7"
+    }
+   ]
+  },
+  "3719": {
+   "brand_name": "Oakley",
+   "brand_name_ko": "오클리",
+   "category": "스포츠",
+   "season_type": "ssfw",
+   "season_codes": [
+    "G006_5"
+   ],
+   "seasons": [
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/3719/goods?season=G006_5"
+    }
+   ]
+  },
+  "3739": {
+   "brand_name": "ELLE GOLF",
+   "brand_name_ko": "엘르골프",
+   "category": "골프",
+   "season_type": "ssfw",
+   "season_codes": [
+    "G006_5",
+    "G006_6"
+   ],
+   "seasons": [
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/3739/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/3739/goods?season=G006_6"
+    }
+   ]
+  },
+  "3740": {
+   "brand_name": "GREENJOY",
+   "brand_name_ko": "그린조이",
+   "category": "골프",
+   "season_type": "ssfw",
+   "season_codes": [
+    "G006_5"
+   ],
+   "seasons": [
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/3740/goods?season=G006_5"
+    }
+   ]
+  },
+  "3741": {
+   "brand_name": "MOUNTIA",
+   "brand_name_ko": "마운티아",
+   "category": "아웃도어",
+   "season_type": "ssfw",
+   "season_codes": [
+    "G006_5",
+    "G006_6"
+   ],
+   "seasons": [
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/3741/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/3741/goods?season=G006_6"
+    }
+   ]
+  },
+  "3759": {
+   "brand_name": "CUTTER&BUCK",
+   "brand_name_ko": "커터앤벅",
+   "category": "골프",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_1",
+    "G006_2",
+    "G006_4",
+    "G006_5",
+    "G006_6"
+   ],
+   "seasons": [
+    {
+     "code": "G006_1",
+     "name": "봄",
+     "url": "https://bucketstore.com/brands/3759/goods?season=G006_1"
+    },
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/3759/goods?season=G006_2"
+    },
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/3759/goods?season=G006_4"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/3759/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/3759/goods?season=G006_6"
+    }
+   ]
+  },
+  "3760": {
+   "brand_name": "PGA",
+   "brand_name_ko": "피지에이",
+   "category": "골프",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_2",
+    "G006_4",
+    "G006_5",
+    "G006_6"
+   ],
+   "seasons": [
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/3760/goods?season=G006_2"
+    },
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/3760/goods?season=G006_4"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/3760/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/3760/goods?season=G006_6"
+    }
+   ]
+  },
+  "3779": {
+   "brand_name": "GEIGERGOLF",
+   "brand_name_ko": "가이거골프",
+   "category": "골프",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_1",
+    "G006_2",
+    "G006_6"
+   ],
+   "seasons": [
+    {
+     "code": "G006_1",
+     "name": "봄",
+     "url": "https://bucketstore.com/brands/3779/goods?season=G006_1"
+    },
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/3779/goods?season=G006_2"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/3779/goods?season=G006_6"
+    }
+   ]
+  },
+  "3799": {
+   "brand_name": "CAMP",
+   "brand_name_ko": "캠프",
+   "category": "아웃도어",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/3799/goods?season=G006_7"
+    }
+   ]
+  },
+  "3819": {
+   "brand_name": "GOXO",
+   "brand_name_ko": "고엑스오",
+   "category": "골프",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_1",
+    "G006_2",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_1",
+     "name": "봄",
+     "url": "https://bucketstore.com/brands/3819/goods?season=G006_1"
+    },
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/3819/goods?season=G006_2"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/3819/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/3819/goods?season=G006_7"
+    }
+   ]
+  },
+  "3839": {
+   "brand_name": "지온컴퍼니",
+   "brand_name_ko": "지온컴퍼니",
+   "category": "골프",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/3839/goods?season=G006_7"
+    }
+   ]
+  },
+  "3859": {
+   "brand_name": "SPEEDO",
+   "brand_name_ko": "스피도",
+   "category": "스포츠",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/3859/goods?season=G006_7"
+    }
+   ]
+  },
+  "3860": {
+   "brand_name": "JOLYN",
+   "brand_name_ko": "졸린",
+   "category": "스포츠",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/3860/goods?season=G006_7"
+    }
+   ]
+  },
+  "3861": {
+   "brand_name": "SEAFOLLY",
+   "brand_name_ko": "씨폴리",
+   "category": "스포츠",
+   "season_type": "season",
+   "season_codes": [
+    "G006_2",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/3861/goods?season=G006_2"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/3861/goods?season=G006_7"
+    }
+   ]
+  },
+  "3879": {
+   "brand_name": "EKORTS",
+   "brand_name_ko": "에코츠",
+   "category": "스포츠",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/3879/goods?season=G006_7"
+    }
+   ]
+  },
+  "3899": {
+   "brand_name": "BERMUDA GRASS",
+   "brand_name_ko": "버뮤다그래스",
+   "category": "골프",
+   "season_type": "ssfw",
+   "season_codes": [
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/3899/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/3899/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/3899/goods?season=G006_7"
+    }
+   ]
+  },
+  "3919": {
+   "brand_name": "Hello Birdie",
+   "brand_name_ko": "헬로버디",
+   "category": "골프",
+   "season_type": "mixed",
+   "season_codes": [
+    "G006_2",
+    "G006_4",
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/3919/goods?season=G006_2"
+    },
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/3919/goods?season=G006_4"
+    },
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/3919/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/3919/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/3919/goods?season=G006_7"
+    }
+   ]
+  },
+  "3939": {
+   "brand_name": "AOW",
+   "brand_name_ko": "에이오더블유",
+   "category": "골프",
+   "season_type": "season",
+   "season_codes": [
+    "G006_2",
+    "G006_4",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_2",
+     "name": "여름",
+     "url": "https://bucketstore.com/brands/3939/goods?season=G006_2"
+    },
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/3939/goods?season=G006_4"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/3939/goods?season=G006_7"
+    }
+   ]
+  },
+  "3959": {
+   "brand_name": "HILLEBERG",
+   "brand_name_ko": "힐레베르그",
+   "category": "아웃도어|캠핑",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/3959/goods?season=G006_7"
+    }
+   ]
+  },
+  "3979": {
+   "brand_name": "LEDLENSER",
+   "brand_name_ko": "레드렌서",
+   "category": "아웃도어|스포츠",
+   "season_type": "preseason_only",
+   "season_codes": [
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/3979/goods?season=G006_7"
+    }
+   ]
+  },
+  "3999": {
+   "brand_name": "renoma golf",
+   "brand_name_ko": "레노마골프",
+   "category": "골프",
+   "season_type": "season",
+   "season_codes": [
+    "G006_1",
+    "G006_3",
+    "G006_4"
+   ],
+   "seasons": [
+    {
+     "code": "G006_1",
+     "name": "봄",
+     "url": "https://bucketstore.com/brands/3999/goods?season=G006_1"
+    },
+    {
+     "code": "G006_3",
+     "name": "가을",
+     "url": "https://bucketstore.com/brands/3999/goods?season=G006_3"
+    },
+    {
+     "code": "G006_4",
+     "name": "겨울",
+     "url": "https://bucketstore.com/brands/3999/goods?season=G006_4"
+    }
+   ]
+  },
+  "4039": {
+   "brand_name": "Dareplaygolf",
+   "brand_name_ko": "데어플레이 골프",
+   "category": "골프",
+   "season_type": "ssfw",
+   "season_codes": [
+    "G006_5",
+    "G006_6",
+    "G006_7"
+   ],
+   "seasons": [
+    {
+     "code": "G006_5",
+     "name": "S/S",
+     "url": "https://bucketstore.com/brands/4039/goods?season=G006_5"
+    },
+    {
+     "code": "G006_6",
+     "name": "F/W",
+     "url": "https://bucketstore.com/brands/4039/goods?season=G006_6"
+    },
+    {
+     "code": "G006_7",
+     "name": "프리시즌",
+     "url": "https://bucketstore.com/brands/4039/goods?season=G006_7"
+    }
+   ]
+  }
+ }
+}

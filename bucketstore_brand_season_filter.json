@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21",
+ "updated_at": "2026-10-22",
  "source": "https://bucketstore.com/bucketapi/filters?brandId={brand_id}",
  "season_codes": {
   "G006_1": "봄",
@@ -16,6 +16,11 @@
   "mixed": "계절+S/S·F/W 혼합",
   "preseason_only": "프리시즌만",
   "none": "시즌 필터 없음"
+ },
+ "sex_codes": {
+  "G007_F": "여성",
+  "G007_M": "남성",
+  "G007_Z": "공용"
  },
  "brands": {
   "1": {
@@ -56,6 +61,28 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/1/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/1/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/1/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/1/goods?sex=G007_Z"
     }
    ]
   },
@@ -98,6 +125,22 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/2/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/2/goods?sex=G007_M"
+    }
    ]
   },
   "4": {
@@ -138,6 +181,28 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/4/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/4/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/4/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/4/goods?sex=G007_Z"
     }
    ]
   },
@@ -185,6 +250,28 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/5/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/5/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/5/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/5/goods?sex=G007_Z"
     }
    ]
   },
@@ -239,6 +326,28 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/8/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/8/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/8/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/8/goods?sex=G007_Z"
+    }
    ]
   },
   "10": {
@@ -291,6 +400,28 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/10/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/10/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/10/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/10/goods?sex=G007_Z"
     }
    ]
   },
@@ -345,6 +476,28 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/12/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/12/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/12/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/12/goods?sex=G007_Z"
+    }
    ]
   },
   "15": {
@@ -385,6 +538,22 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/15/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/15/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/15/goods?sex=G007_M"
     }
    ]
   },
@@ -439,6 +608,28 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/16/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/16/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/16/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/16/goods?sex=G007_Z"
+    }
    ]
   },
   "75": {
@@ -479,6 +670,16 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/75/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/75/goods?sex=G007_Z"
     }
    ]
   },
@@ -533,6 +734,28 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/115/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/115/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/115/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/115/goods?sex=G007_Z"
+    }
    ]
   },
   "175": {
@@ -579,6 +802,28 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/175/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/175/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/175/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/175/goods?sex=G007_Z"
     }
    ]
   },
@@ -627,6 +872,16 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/176/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/176/goods?sex=G007_F"
+    }
    ]
   },
   "195": {
@@ -673,6 +928,16 @@
      "code": "G006_6",
      "name": "F/W",
      "url": "https://bucketstore.com/brands/195/goods?season=G006_6"
+    }
+   ],
+   "sex_codes": [
+    "G007_F"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/195/goods?sex=G007_F"
     }
    ]
   },
@@ -721,6 +986,28 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/215/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/215/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/215/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/215/goods?sex=G007_Z"
+    }
    ]
   },
   "235": {
@@ -750,6 +1037,28 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/235/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/235/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/235/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/235/goods?sex=G007_Z"
+    }
    ]
   },
   "236": {
@@ -778,6 +1087,28 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/236/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/236/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/236/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/236/goods?sex=G007_Z"
     }
    ]
   },
@@ -819,6 +1150,28 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/257/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/257/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/257/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/257/goods?sex=G007_Z"
     }
    ]
   },
@@ -867,6 +1220,22 @@
      "name": "F/W",
      "url": "https://bucketstore.com/brands/258/goods?season=G006_6"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/258/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/258/goods?sex=G007_M"
+    }
    ]
   },
   "277": {
@@ -914,6 +1283,28 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/277/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/277/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/277/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/277/goods?sex=G007_Z"
+    }
    ]
   },
   "297": {
@@ -930,6 +1321,16 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/297/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/297/goods?sex=G007_Z"
     }
    ]
   },
@@ -978,6 +1379,22 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/337/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/337/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/337/goods?sex=G007_Z"
+    }
    ]
   },
   "338": {
@@ -1019,6 +1436,22 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/338/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/338/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/338/goods?sex=G007_M"
+    }
    ]
   },
   "357": {
@@ -1053,6 +1486,28 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/357/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/357/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/357/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/357/goods?sex=G007_Z"
     }
    ]
   },
@@ -1095,6 +1550,28 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/417/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/417/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/417/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/417/goods?sex=G007_Z"
+    }
    ]
   },
   "418": {
@@ -1136,6 +1613,28 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/418/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/418/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/418/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/418/goods?sex=G007_Z"
+    }
    ]
   },
   "419": {
@@ -1176,6 +1675,28 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/419/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/419/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/419/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/419/goods?sex=G007_Z"
     }
    ]
   },
@@ -1230,6 +1751,28 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/498/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/498/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/498/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/498/goods?sex=G007_Z"
+    }
    ]
   },
   "538": {
@@ -1277,6 +1820,16 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/538/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/538/goods?sex=G007_F"
+    }
    ]
   },
   "558": {
@@ -1293,6 +1846,16 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/558/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/558/goods?sex=G007_Z"
     }
    ]
   },
@@ -1347,6 +1910,28 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/578/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/578/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/578/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/578/goods?sex=G007_Z"
+    }
    ]
   },
   "659": {
@@ -1363,6 +1948,22 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/659/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/659/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/659/goods?sex=G007_Z"
     }
    ]
   },
@@ -1404,6 +2005,28 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/660/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/660/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/660/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/660/goods?sex=G007_Z"
     }
    ]
   },
@@ -1458,6 +2081,28 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/678/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/678/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/678/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/678/goods?sex=G007_Z"
+    }
    ]
   },
   "718": {
@@ -1467,7 +2112,9 @@
    "category": "골프",
    "season_type": "none",
    "season_codes": [],
-   "seasons": []
+   "seasons": [],
+   "sex_codes": [],
+   "sexes": []
   },
   "758": {
    "brand_id": "758",
@@ -1502,6 +2149,28 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/758/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/758/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/758/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/758/goods?sex=G007_Z"
+    }
    ]
   },
   "759": {
@@ -1511,7 +2180,9 @@
    "category": "골프",
    "season_type": "none",
    "season_codes": [],
-   "seasons": []
+   "seasons": [],
+   "sex_codes": [],
+   "sexes": []
   },
   "760": {
    "brand_id": "760",
@@ -1527,6 +2198,16 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/760/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/760/goods?sex=G007_Z"
     }
    ]
   },
@@ -1575,6 +2256,28 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/761/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/761/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/761/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/761/goods?sex=G007_Z"
+    }
    ]
   },
   "762": {
@@ -1622,6 +2325,16 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/762/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/762/goods?sex=G007_F"
+    }
    ]
   },
   "778": {
@@ -1644,6 +2357,28 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/778/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/778/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/778/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/778/goods?sex=G007_Z"
     }
    ]
   },
@@ -1686,6 +2421,28 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/799/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/799/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/799/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/799/goods?sex=G007_Z"
+    }
    ]
   },
   "819": {
@@ -1703,6 +2460,16 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/819/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/819/goods?sex=G007_Z"
+    }
    ]
   },
   "820": {
@@ -1719,6 +2486,16 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/820/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/820/goods?sex=G007_Z"
     }
    ]
   },
@@ -1761,6 +2538,28 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/899/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/899/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/899/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/899/goods?sex=G007_Z"
+    }
    ]
   },
   "940": {
@@ -1777,6 +2576,16 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/940/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/940/goods?sex=G007_Z"
     }
    ]
   },
@@ -1813,6 +2622,28 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/961/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/961/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/961/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/961/goods?sex=G007_Z"
+    }
    ]
   },
   "999": {
@@ -1829,6 +2660,16 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/999/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/999/goods?sex=G007_Z"
     }
    ]
   },
@@ -1859,6 +2700,28 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/1019/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/1019/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/1019/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/1019/goods?sex=G007_Z"
+    }
    ]
   },
   "1059": {
@@ -1875,6 +2738,28 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/1059/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/1059/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/1059/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/1059/goods?sex=G007_Z"
     }
    ]
   },
@@ -1905,6 +2790,28 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/1099/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/1099/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/1099/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/1099/goods?sex=G007_Z"
+    }
    ]
   },
   "1100": {
@@ -1934,6 +2841,28 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/1100/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/1100/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/1100/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/1100/goods?sex=G007_Z"
+    }
    ]
   },
   "1101": {
@@ -1957,6 +2886,22 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/1101/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/1101/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/1101/goods?sex=G007_M"
+    }
    ]
   },
   "1102": {
@@ -1973,6 +2918,16 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/1102/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/1102/goods?sex=G007_Z"
     }
    ]
   },
@@ -2002,6 +2957,28 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/1119/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/1119/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/1119/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/1119/goods?sex=G007_Z"
     }
    ]
   },
@@ -2050,6 +3027,28 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/1120/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/1120/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/1120/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/1120/goods?sex=G007_Z"
+    }
    ]
   },
   "1159": {
@@ -2097,6 +3096,28 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/1159/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/1159/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/1159/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/1159/goods?sex=G007_Z"
+    }
    ]
   },
   "1179": {
@@ -2114,6 +3135,16 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/1179/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/1179/goods?sex=G007_Z"
+    }
    ]
   },
   "1180": {
@@ -2130,6 +3161,16 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/1180/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/1180/goods?sex=G007_Z"
     }
    ]
   },
@@ -2184,6 +3225,28 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/1181/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/1181/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/1181/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/1181/goods?sex=G007_Z"
+    }
    ]
   },
   "1199": {
@@ -2237,6 +3300,28 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/1199/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/1199/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/1199/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/1199/goods?sex=G007_Z"
+    }
    ]
   },
   "1279": {
@@ -2246,7 +3331,9 @@
    "category": "골프",
    "season_type": "none",
    "season_codes": [],
-   "seasons": []
+   "seasons": [],
+   "sex_codes": [],
+   "sexes": []
   },
   "1300": {
    "brand_id": "1300",
@@ -2262,6 +3349,16 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/1300/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_F"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/1300/goods?sex=G007_F"
     }
    ]
   },
@@ -2316,6 +3413,28 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/1340/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/1340/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/1340/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/1340/goods?sex=G007_Z"
+    }
    ]
   },
   "1379": {
@@ -2332,6 +3451,16 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/1379/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/1379/goods?sex=G007_Z"
     }
    ]
   },
@@ -2355,6 +3484,28 @@
      "code": "G006_6",
      "name": "F/W",
      "url": "https://bucketstore.com/brands/1439/goods?season=G006_6"
+    }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/1439/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/1439/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/1439/goods?sex=G007_Z"
     }
    ]
   },
@@ -2390,6 +3541,28 @@
      "code": "G006_4",
      "name": "겨울",
      "url": "https://bucketstore.com/brands/1519/goods?season=G006_4"
+    }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/1519/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/1519/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/1519/goods?sex=G007_Z"
     }
    ]
   },
@@ -2432,6 +3605,28 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/1579/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/1579/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/1579/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/1579/goods?sex=G007_Z"
+    }
    ]
   },
   "1580": {
@@ -2466,6 +3661,28 @@
      "code": "G006_6",
      "name": "F/W",
      "url": "https://bucketstore.com/brands/1580/goods?season=G006_6"
+    }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/1580/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/1580/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/1580/goods?sex=G007_Z"
     }
    ]
   },
@@ -2507,6 +3724,28 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/1581/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/1581/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/1581/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/1581/goods?sex=G007_Z"
     }
    ]
   },
@@ -2555,6 +3794,28 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/1582/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/1582/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/1582/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/1582/goods?sex=G007_Z"
+    }
    ]
   },
   "1599": {
@@ -2564,7 +3825,9 @@
    "category": "캠핑",
    "season_type": "none",
    "season_codes": [],
-   "seasons": []
+   "seasons": [],
+   "sex_codes": [],
+   "sexes": []
   },
   "1601": {
    "brand_id": "1601",
@@ -2573,7 +3836,9 @@
    "category": "캠핑",
    "season_type": "none",
    "season_codes": [],
-   "seasons": []
+   "seasons": [],
+   "sex_codes": [],
+   "sexes": []
   },
   "1602": {
    "brand_id": "1602",
@@ -2582,7 +3847,9 @@
    "category": "캠핑",
    "season_type": "none",
    "season_codes": [],
-   "seasons": []
+   "seasons": [],
+   "sex_codes": [],
+   "sexes": []
   },
   "1603": {
    "brand_id": "1603",
@@ -2591,7 +3858,9 @@
    "category": "캠핑",
    "season_type": "none",
    "season_codes": [],
-   "seasons": []
+   "seasons": [],
+   "sex_codes": [],
+   "sexes": []
   },
   "1695": {
    "brand_id": "1695",
@@ -2600,7 +3869,9 @@
    "category": "캠핑",
    "season_type": "none",
    "season_codes": [],
-   "seasons": []
+   "seasons": [],
+   "sex_codes": [],
+   "sexes": []
   },
   "1727": {
    "brand_id": "1727",
@@ -2609,7 +3880,9 @@
    "category": "캠핑",
    "season_type": "none",
    "season_codes": [],
-   "seasons": []
+   "seasons": [],
+   "sex_codes": [],
+   "sexes": []
   },
   "1739": {
    "brand_id": "1739",
@@ -2631,6 +3904,28 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/1739/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/1739/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/1739/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/1739/goods?sex=G007_Z"
     }
    ]
   },
@@ -2660,6 +3955,28 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/1779/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/1779/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/1779/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/1779/goods?sex=G007_Z"
     }
    ]
   },
@@ -2708,6 +4025,22 @@
      "name": "F/W",
      "url": "https://bucketstore.com/brands/1819/goods?season=G006_6"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/1819/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/1819/goods?sex=G007_M"
+    }
    ]
   },
   "1839": {
@@ -2749,6 +4082,28 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/1839/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/1839/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/1839/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/1839/goods?sex=G007_Z"
+    }
    ]
   },
   "1859": {
@@ -2758,7 +4113,9 @@
    "category": "캠핑",
    "season_type": "none",
    "season_codes": [],
-   "seasons": []
+   "seasons": [],
+   "sex_codes": [],
+   "sexes": []
   },
   "1879": {
    "brand_id": "1879",
@@ -2774,6 +4131,28 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/1879/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/1879/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/1879/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/1879/goods?sex=G007_Z"
     }
    ]
   },
@@ -2791,6 +4170,22 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/1899/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/1899/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/1899/goods?sex=G007_Z"
     }
    ]
   },
@@ -2832,6 +4227,28 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/1919/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/1919/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/1919/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/1919/goods?sex=G007_Z"
     }
    ]
   },
@@ -2886,6 +4303,28 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/1959/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/1959/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/1959/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/1959/goods?sex=G007_Z"
+    }
    ]
   },
   "2079": {
@@ -2914,6 +4353,28 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2079/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/2079/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/2079/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/2079/goods?sex=G007_Z"
     }
    ]
   },
@@ -2962,6 +4423,28 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2080/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/2080/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/2080/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/2080/goods?sex=G007_Z"
+    }
    ]
   },
   "2081": {
@@ -2990,6 +4473,28 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2081/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/2081/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/2081/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/2081/goods?sex=G007_Z"
     }
    ]
   },
@@ -3020,6 +4525,28 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2082/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/2082/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/2082/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/2082/goods?sex=G007_Z"
+    }
    ]
   },
   "2083": {
@@ -3043,6 +4570,28 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2083/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/2083/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/2083/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/2083/goods?sex=G007_Z"
+    }
    ]
   },
   "2085": {
@@ -3059,6 +4608,16 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2085/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/2085/goods?sex=G007_Z"
     }
    ]
   },
@@ -3083,6 +4642,28 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2086/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/2086/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/2086/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/2086/goods?sex=G007_Z"
+    }
    ]
   },
   "2087": {
@@ -3099,6 +4680,16 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2087/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/2087/goods?sex=G007_Z"
     }
    ]
   },
@@ -3117,6 +4708,16 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2088/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/2088/goods?sex=G007_Z"
+    }
    ]
   },
   "2089": {
@@ -3133,6 +4734,22 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2089/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/2089/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/2089/goods?sex=G007_Z"
     }
    ]
   },
@@ -3151,6 +4768,22 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2090/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/2090/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/2090/goods?sex=G007_Z"
+    }
    ]
   },
   "2091": {
@@ -3167,6 +4800,16 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2091/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/2091/goods?sex=G007_Z"
     }
    ]
   },
@@ -3197,6 +4840,28 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2101/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/2101/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/2101/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/2101/goods?sex=G007_Z"
+    }
    ]
   },
   "2103": {
@@ -3213,6 +4878,16 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2103/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/2103/goods?sex=G007_Z"
     }
    ]
   },
@@ -3242,6 +4917,22 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2105/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/2105/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/2105/goods?sex=G007_Z"
     }
    ]
   },
@@ -3278,6 +4969,28 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2119/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/2119/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/2119/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/2119/goods?sex=G007_Z"
+    }
    ]
   },
   "2139": {
@@ -3294,6 +5007,16 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2139/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/2139/goods?sex=G007_Z"
     }
    ]
   },
@@ -3330,6 +5053,22 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2159/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/2159/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/2159/goods?sex=G007_Z"
+    }
    ]
   },
   "2180": {
@@ -3346,6 +5085,16 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2180/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_M"
+   ],
+   "sexes": [
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/2180/goods?sex=G007_M"
     }
    ]
   },
@@ -3376,6 +5125,22 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2199/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/2199/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/2199/goods?sex=G007_Z"
+    }
    ]
   },
   "2219": {
@@ -3392,6 +5157,16 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2219/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/2219/goods?sex=G007_Z"
     }
    ]
   },
@@ -3410,6 +5185,16 @@
      "name": "여름",
      "url": "https://bucketstore.com/brands/2240/goods?season=G006_2"
     }
+   ],
+   "sex_codes": [
+    "G007_F"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/2240/goods?sex=G007_F"
+    }
    ]
   },
   "2241": {
@@ -3419,7 +5204,9 @@
    "category": "스포츠",
    "season_type": "none",
    "season_codes": [],
-   "seasons": []
+   "seasons": [],
+   "sex_codes": [],
+   "sexes": []
   },
   "2242": {
    "brand_id": "2242",
@@ -3435,6 +5222,16 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2242/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_F"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/2242/goods?sex=G007_F"
     }
    ]
   },
@@ -3453,6 +5250,22 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2246/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/2246/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/2246/goods?sex=G007_Z"
+    }
    ]
   },
   "2259": {
@@ -3469,6 +5282,16 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2259/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/2259/goods?sex=G007_Z"
     }
    ]
   },
@@ -3487,6 +5310,22 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2265/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/2265/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/2265/goods?sex=G007_Z"
+    }
    ]
   },
   "2299": {
@@ -3503,6 +5342,22 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2299/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/2299/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/2299/goods?sex=G007_Z"
     }
    ]
   },
@@ -3526,6 +5381,28 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2300/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/2300/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/2300/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/2300/goods?sex=G007_Z"
     }
    ]
   },
@@ -3568,6 +5445,28 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2319/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/2319/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/2319/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/2319/goods?sex=G007_Z"
+    }
    ]
   },
   "2320": {
@@ -3584,6 +5483,28 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2320/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/2320/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/2320/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/2320/goods?sex=G007_Z"
     }
    ]
   },
@@ -3608,6 +5529,22 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2339/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/2339/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/2339/goods?sex=G007_Z"
+    }
    ]
   },
   "2359": {
@@ -3617,7 +5554,9 @@
    "category": "골프",
    "season_type": "none",
    "season_codes": [],
-   "seasons": []
+   "seasons": [],
+   "sex_codes": [],
+   "sexes": []
   },
   "2379": {
    "brand_id": "2379",
@@ -3639,6 +5578,22 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2379/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/2379/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/2379/goods?sex=G007_Z"
     }
    ]
   },
@@ -3669,6 +5624,22 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2399/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/2399/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/2399/goods?sex=G007_Z"
+    }
    ]
   },
   "2419": {
@@ -3691,6 +5662,22 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2419/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/2419/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/2419/goods?sex=G007_Z"
     }
    ]
   },
@@ -3721,6 +5708,22 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2439/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/2439/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/2439/goods?sex=G007_Z"
+    }
    ]
   },
   "2479": {
@@ -3737,6 +5740,16 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2479/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/2479/goods?sex=G007_Z"
     }
    ]
   },
@@ -3778,6 +5791,16 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2499/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/2499/goods?sex=G007_Z"
     }
    ]
   },
@@ -3832,6 +5855,28 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2519/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/2519/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/2519/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/2519/goods?sex=G007_Z"
+    }
    ]
   },
   "2540": {
@@ -3849,6 +5894,16 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2540/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/2540/goods?sex=G007_Z"
+    }
    ]
   },
   "2542": {
@@ -3865,6 +5920,16 @@
      "code": "G006_4",
      "name": "겨울",
      "url": "https://bucketstore.com/brands/2542/goods?season=G006_4"
+    }
+   ],
+   "sex_codes": [
+    "G007_F"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/2542/goods?sex=G007_F"
     }
    ]
   },
@@ -3889,6 +5954,22 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2559/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/2559/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/2559/goods?sex=G007_Z"
+    }
    ]
   },
   "2579": {
@@ -3912,6 +5993,16 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2579/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/2579/goods?sex=G007_Z"
+    }
    ]
   },
   "2599": {
@@ -3928,6 +6019,16 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2599/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/2599/goods?sex=G007_Z"
     }
    ]
   },
@@ -3982,6 +6083,28 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2619/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/2619/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/2619/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/2619/goods?sex=G007_Z"
+    }
    ]
   },
   "2620": {
@@ -4035,6 +6158,28 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2620/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/2620/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/2620/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/2620/goods?sex=G007_Z"
+    }
    ]
   },
   "2639": {
@@ -4064,6 +6209,16 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2639/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/2639/goods?sex=G007_F"
+    }
    ]
   },
   "2659": {
@@ -4080,6 +6235,16 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2659/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/2659/goods?sex=G007_Z"
     }
    ]
   },
@@ -4109,6 +6274,16 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2679/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_M"
+   ],
+   "sexes": [
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/2679/goods?sex=G007_M"
     }
    ]
   },
@@ -4145,6 +6320,16 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2680/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/2680/goods?sex=G007_F"
+    }
    ]
   },
   "2699": {
@@ -4161,6 +6346,22 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2699/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/2699/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/2699/goods?sex=G007_M"
     }
    ]
   },
@@ -4203,6 +6404,28 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2719/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/2719/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/2719/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/2719/goods?sex=G007_Z"
+    }
    ]
   },
   "2759": {
@@ -4219,6 +6442,16 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2759/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/2759/goods?sex=G007_Z"
     }
    ]
   },
@@ -4237,6 +6470,22 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2799/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/2799/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/2799/goods?sex=G007_Z"
+    }
    ]
   },
   "2800": {
@@ -4254,6 +6503,16 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2800/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/2800/goods?sex=G007_Z"
+    }
    ]
   },
   "2801": {
@@ -4270,6 +6529,16 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2801/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/2801/goods?sex=G007_Z"
     }
    ]
   },
@@ -4300,6 +6569,28 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2819/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/2819/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/2819/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/2819/goods?sex=G007_Z"
+    }
    ]
   },
   "2859": {
@@ -4317,6 +6608,16 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2859/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/2859/goods?sex=G007_Z"
+    }
    ]
   },
   "2879": {
@@ -4333,6 +6634,16 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2879/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/2879/goods?sex=G007_Z"
     }
    ]
   },
@@ -4369,6 +6680,28 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2899/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/2899/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/2899/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/2899/goods?sex=G007_Z"
+    }
    ]
   },
   "2900": {
@@ -4398,6 +6731,16 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2900/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/2900/goods?sex=G007_F"
+    }
    ]
   },
   "2919": {
@@ -4414,6 +6757,22 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2919/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/2919/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/2919/goods?sex=G007_M"
     }
    ]
   },
@@ -4444,6 +6803,28 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2939/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/2939/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/2939/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/2939/goods?sex=G007_Z"
+    }
    ]
   },
   "2940": {
@@ -4460,6 +6841,28 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2940/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/2940/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/2940/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/2940/goods?sex=G007_Z"
     }
    ]
   },
@@ -4490,6 +6893,28 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/2962/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/2962/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/2962/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/2962/goods?sex=G007_Z"
+    }
    ]
   },
   "2980": {
@@ -4512,6 +6937,22 @@
      "code": "G006_6",
      "name": "F/W",
      "url": "https://bucketstore.com/brands/2980/goods?season=G006_6"
+    }
+   ],
+   "sex_codes": [
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/2980/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/2980/goods?sex=G007_Z"
     }
    ]
   },
@@ -4554,6 +6995,28 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/3019/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/3019/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/3019/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/3019/goods?sex=G007_Z"
+    }
    ]
   },
   "3020": {
@@ -4571,6 +7034,22 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/3020/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/3020/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/3020/goods?sex=G007_Z"
+    }
    ]
   },
   "3021": {
@@ -4587,6 +7066,28 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/3021/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/3021/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/3021/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/3021/goods?sex=G007_Z"
     }
    ]
   },
@@ -4629,6 +7130,28 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/3039/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/3039/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/3039/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/3039/goods?sex=G007_Z"
+    }
    ]
   },
   "3060": {
@@ -4645,6 +7168,16 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/3060/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/3060/goods?sex=G007_Z"
     }
    ]
   },
@@ -4675,6 +7208,16 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/3061/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/3061/goods?sex=G007_F"
+    }
    ]
   },
   "3065": {
@@ -4697,6 +7240,16 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/3065/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_F"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/3065/goods?sex=G007_F"
     }
    ]
   },
@@ -4721,6 +7274,22 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/3079/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/3079/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/3079/goods?sex=G007_Z"
+    }
    ]
   },
   "3080": {
@@ -4744,6 +7313,28 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/3080/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/3080/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/3080/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/3080/goods?sex=G007_Z"
+    }
    ]
   },
   "3081": {
@@ -4760,6 +7351,16 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/3081/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_F"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/3081/goods?sex=G007_F"
     }
    ]
   },
@@ -4784,6 +7385,28 @@
      "name": "F/W",
      "url": "https://bucketstore.com/brands/3099/goods?season=G006_6"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/3099/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/3099/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/3099/goods?sex=G007_Z"
+    }
    ]
   },
   "3119": {
@@ -4806,6 +7429,28 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/3119/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/3119/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/3119/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/3119/goods?sex=G007_Z"
     }
    ]
   },
@@ -4854,6 +7499,28 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/3139/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/3139/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/3139/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/3139/goods?sex=G007_Z"
+    }
    ]
   },
   "3159": {
@@ -4889,6 +7556,28 @@
      "name": "겨울",
      "url": "https://bucketstore.com/brands/3159/goods?season=G006_4"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/3159/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/3159/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/3159/goods?sex=G007_Z"
+    }
    ]
   },
   "3199": {
@@ -4911,6 +7600,22 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/3199/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/3199/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/3199/goods?sex=G007_Z"
     }
    ]
   },
@@ -4935,6 +7640,28 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/3200/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/3200/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/3200/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/3200/goods?sex=G007_Z"
+    }
    ]
   },
   "3201": {
@@ -4958,6 +7685,22 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/3201/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/3201/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/3201/goods?sex=G007_Z"
+    }
    ]
   },
   "3202": {
@@ -4975,6 +7718,28 @@
      "name": "여름",
      "url": "https://bucketstore.com/brands/3202/goods?season=G006_2"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/3202/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/3202/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/3202/goods?sex=G007_Z"
+    }
    ]
   },
   "3239": {
@@ -4991,6 +7756,28 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/3239/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/3239/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/3239/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/3239/goods?sex=G007_Z"
     }
    ]
   },
@@ -5014,6 +7801,28 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/3259/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/3259/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/3259/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/3259/goods?sex=G007_Z"
     }
    ]
   },
@@ -5056,6 +7865,22 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/3279/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/3279/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/3279/goods?sex=G007_Z"
+    }
    ]
   },
   "3299": {
@@ -5090,6 +7915,28 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/3299/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/3299/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/3299/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/3299/goods?sex=G007_Z"
     }
    ]
   },
@@ -5132,6 +7979,16 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/3339/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/3339/goods?sex=G007_F"
+    }
    ]
   },
   "3399": {
@@ -5148,6 +8005,28 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/3399/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/3399/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/3399/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/3399/goods?sex=G007_Z"
     }
    ]
   },
@@ -5184,6 +8063,22 @@
      "name": "F/W",
      "url": "https://bucketstore.com/brands/3419/goods?season=G006_6"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/3419/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/3419/goods?sex=G007_M"
+    }
    ]
   },
   "3420": {
@@ -5206,6 +8101,22 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/3420/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/3420/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/3420/goods?sex=G007_Z"
     }
    ]
   },
@@ -5236,6 +8147,16 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/3439/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/3439/goods?sex=G007_F"
+    }
    ]
   },
   "3459": {
@@ -5265,6 +8186,22 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/3459/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/3459/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/3459/goods?sex=G007_Z"
+    }
    ]
   },
   "3499": {
@@ -5281,6 +8218,16 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/3499/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/3499/goods?sex=G007_Z"
     }
    ]
   },
@@ -5311,6 +8258,28 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/3519/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/3519/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/3519/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/3519/goods?sex=G007_Z"
+    }
    ]
   },
   "3539": {
@@ -5340,6 +8309,28 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/3539/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/3539/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/3539/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/3539/goods?sex=G007_Z"
+    }
    ]
   },
   "3559": {
@@ -5356,6 +8347,16 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/3559/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/3559/goods?sex=G007_Z"
     }
    ]
   },
@@ -5392,6 +8393,28 @@
      "name": "F/W",
      "url": "https://bucketstore.com/brands/3579/goods?season=G006_6"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/3579/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/3579/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/3579/goods?sex=G007_Z"
+    }
    ]
   },
   "3599": {
@@ -5408,6 +8431,16 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/3599/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/3599/goods?sex=G007_Z"
     }
    ]
   },
@@ -5426,6 +8459,16 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/3600/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/3600/goods?sex=G007_Z"
+    }
    ]
   },
   "3619": {
@@ -5442,6 +8485,28 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/3619/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/3619/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/3619/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/3619/goods?sex=G007_Z"
     }
    ]
   },
@@ -5460,6 +8525,16 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/3639/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/3639/goods?sex=G007_Z"
+    }
    ]
   },
   "3640": {
@@ -5476,6 +8551,16 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/3640/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/3640/goods?sex=G007_Z"
     }
    ]
   },
@@ -5518,6 +8603,16 @@
      "name": "S/S",
      "url": "https://bucketstore.com/brands/3659/goods?season=G006_5"
     }
+   ],
+   "sex_codes": [
+    "G007_F"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/3659/goods?sex=G007_F"
+    }
    ]
   },
   "3699": {
@@ -5547,6 +8642,28 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/3699/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/3699/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/3699/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/3699/goods?sex=G007_Z"
+    }
    ]
   },
   "3719": {
@@ -5563,6 +8680,22 @@
      "code": "G006_5",
      "name": "S/S",
      "url": "https://bucketstore.com/brands/3719/goods?season=G006_5"
+    }
+   ],
+   "sex_codes": [
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/3719/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/3719/goods?sex=G007_Z"
     }
    ]
   },
@@ -5587,6 +8720,22 @@
      "name": "F/W",
      "url": "https://bucketstore.com/brands/3739/goods?season=G006_6"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/3739/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/3739/goods?sex=G007_M"
+    }
    ]
   },
   "3740": {
@@ -5603,6 +8752,22 @@
      "code": "G006_5",
      "name": "S/S",
      "url": "https://bucketstore.com/brands/3740/goods?season=G006_5"
+    }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/3740/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/3740/goods?sex=G007_M"
     }
    ]
   },
@@ -5626,6 +8791,28 @@
      "code": "G006_6",
      "name": "F/W",
      "url": "https://bucketstore.com/brands/3741/goods?season=G006_6"
+    }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/3741/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/3741/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/3741/goods?sex=G007_Z"
     }
    ]
   },
@@ -5668,6 +8855,28 @@
      "name": "F/W",
      "url": "https://bucketstore.com/brands/3759/goods?season=G006_6"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/3759/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/3759/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/3759/goods?sex=G007_Z"
+    }
    ]
   },
   "3760": {
@@ -5703,6 +8912,28 @@
      "name": "F/W",
      "url": "https://bucketstore.com/brands/3760/goods?season=G006_6"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/3760/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/3760/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/3760/goods?sex=G007_Z"
+    }
    ]
   },
   "3779": {
@@ -5732,6 +8963,22 @@
      "name": "F/W",
      "url": "https://bucketstore.com/brands/3779/goods?season=G006_6"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/3779/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/3779/goods?sex=G007_M"
+    }
    ]
   },
   "3799": {
@@ -5748,6 +8995,16 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/3799/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/3799/goods?sex=G007_Z"
     }
    ]
   },
@@ -5784,6 +9041,28 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/3819/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/3819/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/3819/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/3819/goods?sex=G007_Z"
+    }
    ]
   },
   "3839": {
@@ -5800,6 +9079,28 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/3839/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/3839/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/3839/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/3839/goods?sex=G007_Z"
     }
    ]
   },
@@ -5818,6 +9119,28 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/3859/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/3859/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/3859/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/3859/goods?sex=G007_Z"
+    }
    ]
   },
   "3860": {
@@ -5834,6 +9157,28 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/3860/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/3860/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/3860/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/3860/goods?sex=G007_Z"
     }
    ]
   },
@@ -5858,6 +9203,22 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/3861/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/3861/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/3861/goods?sex=G007_Z"
+    }
    ]
   },
   "3879": {
@@ -5874,6 +9235,16 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/3879/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/3879/goods?sex=G007_Z"
     }
    ]
   },
@@ -5903,6 +9274,16 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/3899/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_F"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/3899/goods?sex=G007_F"
     }
    ]
   },
@@ -5945,6 +9326,28 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/3919/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/3919/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/3919/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/3919/goods?sex=G007_Z"
+    }
    ]
   },
   "3939": {
@@ -5974,6 +9377,28 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/3939/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/3939/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/3939/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/3939/goods?sex=G007_Z"
+    }
    ]
   },
   "3959": {
@@ -5991,6 +9416,16 @@
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/3959/goods?season=G006_7"
     }
+   ],
+   "sex_codes": [
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/3959/goods?sex=G007_Z"
+    }
    ]
   },
   "3979": {
@@ -6007,6 +9442,16 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/3979/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/3979/goods?sex=G007_Z"
     }
    ]
   },
@@ -6037,6 +9482,22 @@
      "name": "겨울",
      "url": "https://bucketstore.com/brands/3999/goods?season=G006_4"
     }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/3999/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/3999/goods?sex=G007_M"
+    }
    ]
   },
   "4039": {
@@ -6065,6 +9526,28 @@
      "code": "G006_7",
      "name": "프리시즌",
      "url": "https://bucketstore.com/brands/4039/goods?season=G006_7"
+    }
+   ],
+   "sex_codes": [
+    "G007_F",
+    "G007_M",
+    "G007_Z"
+   ],
+   "sexes": [
+    {
+     "code": "G007_F",
+     "name": "여성",
+     "url": "https://bucketstore.com/brands/4039/goods?sex=G007_F"
+    },
+    {
+     "code": "G007_M",
+     "name": "남성",
+     "url": "https://bucketstore.com/brands/4039/goods?sex=G007_M"
+    },
+    {
+     "code": "G007_Z",
+     "name": "공용",
+     "url": "https://bucketstore.com/brands/4039/goods?sex=G007_Z"
     }
    ]
   }
